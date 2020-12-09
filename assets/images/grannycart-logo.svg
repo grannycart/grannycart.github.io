@@ -15,8 +15,8 @@
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="grannycart-logo.svg"
    inkscape:export-filename="/home/dynohub/github-repos/grannycart/grannycart-grannycart.github.io/assets/images/grannycart-logo.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-xdpi="95.581322"
+   inkscape:export-ydpi="95.581322">
   <defs
      id="defs40" />
   <sodipodi:namedview
@@ -81,11 +81,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="noise"
-     sodipodi:insensitive="true">
+     inkscape:label="noise">
     <path
        style="display:inline;fill:#d0d0d0;fill-opacity:1;stroke-width:0.264583"
-       d="m 91.252352,34.719222 c 0,-0.48997 -0.13748,-0.74965 -0.39688,-0.74965 -0.25939,0 -0.39687,0.25968 -0.39687,0.74965 0,0.48997 0.13748,0.74965 0.39687,0.74965 0.2594,0 0.39688,-0.25968 0.39688,-0.74965 z"
+       d="m 92.386281,46.058508 c 0,-0.48997 -0.13748,-0.74965 -0.39688,-0.74965 -0.25939,0 -0.39687,0.25968 -0.39687,0.74965 0,0.48997 0.13748,0.74965 0.39687,0.74965 0.2594,0 0.39688,-0.25968 0.39688,-0.74965 z"
        id="path3815-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssss" />
@@ -110,7 +109,7 @@
      sodipodi:nodetypes="sssss" />
   <path
      style="display:inline;fill:#d0d0d0;fill-opacity:1;stroke-width:0.264583"
-     d="m 45.754018,23.056548 c 0,-0.48997 -0.13748,-0.74965 -0.39688,-0.74965 -0.25939,0 -0.39687,0.25968 -0.39687,0.74965 0,0.48997 0.13748,0.74965 0.39687,0.74965 0.2594,0 0.39688,-0.25968 0.39688,-0.74965 z"
+     d="m 63.528588,23.056548 c 0,-0.48997 -0.13748,-0.74965 -0.39688,-0.74965 -0.25939,0 -0.39687,0.25968 -0.39687,0.74965 0,0.48997 0.13748,0.74965 0.39687,0.74965 0.2594,0 0.39688,-0.25968 0.39688,-0.74965 z"
      id="path3815-7-1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="sssss" />
