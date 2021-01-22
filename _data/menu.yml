@@ -3,7 +3,7 @@
 
 entries:
 - title: About
-url: about
+  url: about.md
 
 
 # These are the default menu settings from the maintainer:
