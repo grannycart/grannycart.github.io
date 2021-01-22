@@ -2,8 +2,7 @@ title: Grannycart
 author: grannycart # name of site's author
 email: grannycart@protonmail.com # email of site's author
 url: https://grannycart.github.io # root address of the site
-description: Struggling to push home a cartload of ideas about cities. Pushing 
-  home a rickety cartload of ideas about cities on a couple of squeaky wheels.
+description:  Pushing home a rickety cartload of ideas about cities on a couple of squeaky wheels.
 
 # These markdown options fix the autolinking of vimwiki links in github pages
 markdown: CommonMarkGhPages
