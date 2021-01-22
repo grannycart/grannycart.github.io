@@ -3,7 +3,8 @@
 
 entries:
 - title: About
-  url: about.md
+  url: about
+  # Note: spacing of url line matters. Don't use the .md extension in file you are linking to.
 
 
 # These are the default menu settings from the maintainer:
