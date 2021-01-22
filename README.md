@@ -1,10 +1,17 @@
 READMD.md
-Last modified: Fri Jan 22, 2021  11:59AM
+Last modified: Fri Jan 22, 2021  12:27PM
 
 # README for grannycart web page
-* [ ] write up documentation based on what things look like on the web page vs where they actually are in the file structure
-* [X] consider a different colorscheme for grannycart.net --- maybe keep the darker colors for dynohub.net and figure out a brighter color scheme for grannycart.
-	* Since it's supposed to be a professional site, something friendly, but serious (it would likely take some experimentation)
+* By github.com/grannycart
+* http://grannycart.github.io/
+* Using theme: riggraz/no-style-please
+	* https://github.com/riggraz/no-style-please
+
+## License:
+* Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+	* CC BY-NC-SA 4.0
+	* See: [LICENSE](./LICENSE)
+
 
 
 
