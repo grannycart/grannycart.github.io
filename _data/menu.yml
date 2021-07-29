@@ -1,14 +1,18 @@
 # menu.yml
-# Last modified: Thu Jul 29, 2021  02:44PM
+# Last modified: Thu Jul 29, 2021  05:45PM
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
 - title: On cities
   url: cities/cities
+  # Note: spacing of url line matters. DON'T use the .md extension in file you are linking to.
 - title: About
   url: about
-  # Note: spacing of url line matters. DON'T use the .md extension in file you are linking to.
+- title: Submarines
+  url: submarines
+- title: Junk Drawer (an archive of the old an irrelevant)
+  url: junk/junk
 
 
 # These are the default menu settings from the maintainer:
