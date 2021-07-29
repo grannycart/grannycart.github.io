@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Cities
+title: A page for cities
 ---
 
 
-# A page for cities
 
 Some text
 

@@ -1,5 +1,5 @@
 notes-on-grannycart-pages.md
-Last modified: Thu Jul 29, 2021  02:38PM
+Last modified: Thu Jul 29, 2021  02:47PM
 
 # Notes on Grannycart pages
 * First: most notes are actually in the grannycart pages in vimwiki
@@ -18,6 +18,8 @@ Last modified: Thu Jul 29, 2021  02:38PM
 	* _data/menu.yml
 
 ## layouts
+* On most (all?) layouts the title: option will create an H1 header at the top of the page
+	* (So no need to put a # Header at the beginning)
 * Possible layouts are:
 	* post
 		* Top matter YAML for an archive page:
