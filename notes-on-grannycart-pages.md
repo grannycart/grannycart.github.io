@@ -1,5 +1,5 @@
 notes-on-grannycart-pages.md
-Last modified: Thu Jul 29, 2021  02:47PM
+Last modified: Thu Jul 29, 2021  02:49PM
 
 # Notes on Grannycart pages
 * First: most notes are actually in the grannycart pages in vimwiki
@@ -8,8 +8,9 @@ Last modified: Thu Jul 29, 2021  02:47PM
 
 
 ## Things to do
-* [ ] does the directory structure go in the root dir? or in _data?
-	* how does a subdirectory work?
+* [X] does the directory structure go in the root dir? or in _data?
+	* directory structure goes in the root dir, only the menu.yml (index.md content) config goes in _data
+	* if you forget, just look at the about page structure
 
 ## index / home page
 * It appears text in index.md is ignored by nostyleplease.
