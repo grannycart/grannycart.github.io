@@ -1,14 +1,14 @@
 # menu.yml
-# Last modified: Wed Jul 28, 2021  05:21PM
+# Last modified: Thu Jul 29, 2021  02:44PM
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
 - title: On cities
-  url: cities/cities.md
+  url: cities/cities
 - title: About
   url: about
-  # Note: spacing of url line matters. Don't use the .md extension in file you are linking to.
+  # Note: spacing of url line matters. DON'T use the .md extension in file you are linking to.
 
 
 # These are the default menu settings from the maintainer:
