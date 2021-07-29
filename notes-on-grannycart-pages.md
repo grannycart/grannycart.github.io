@@ -1,5 +1,5 @@
 notes-on-grannycart-pages.md
-Last modified: Wed Jul 28, 2021  05:23PM
+Last modified: Thu Jul 29, 2021  02:38PM
 
 # Notes on Grannycart pages
 * First: most notes are actually in the grannycart pages in vimwiki
@@ -16,5 +16,29 @@ Last modified: Wed Jul 28, 2021  05:23PM
 	* Instead index.md is used only to call the "home" page style
 * The index / home page is actually configured in: 
 	* _data/menu.yml
+
+## layouts
+* Possible layouts are:
+	* post
+		* Top matter YAML for an archive page:
+			---
+			layout: post
+			---
+	* archive
+		* Used for creating a grouping of posts (see riggraz/no-style-please)
+		* Top matter YAML for an archive page:
+			---
+			layout: archive
+			title: The title of the page here
+			which_category: name-of-category
+			---
+	* default
+	* home
+	* page
+		* Top matter YAML for a page:
+			---
+			layout: page
+			title: The title of the page here
+			---
 
 
