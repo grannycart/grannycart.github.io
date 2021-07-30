@@ -1,5 +1,5 @@
 # menu.yml
-# Last modified: Thu Jul 29, 2021  05:45PM
+# Last modified: Fri Jul 30, 2021  03:44PM
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
@@ -11,6 +11,8 @@ entries:
   url: about
 - title: Submarines
   url: submarines
+- title: Design Is Evil
+  url: evildesign/designevil
 - title: Junk Drawer (an archive of the old an irrelevant)
   url: junk/junk
 
