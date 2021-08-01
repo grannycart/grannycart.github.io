@@ -1,5 +1,5 @@
 notes-on-grannycart-pages.md
-Last modified: Thu Jul 29, 2021  02:49PM
+Last modified: Sun Aug 01, 2021  01:34PM
 
 # Notes on Grannycart pages
 * First: most notes are actually in the grannycart pages in vimwiki
@@ -44,4 +44,8 @@ Last modified: Thu Jul 29, 2021  02:49PM
 			title: The title of the page here
 			---
 
+## Favicon
+* Generated from a drag-and-drop online favicon generator site
+* favicon dir just contains alternate (currently unused) favicon types.
+* favicon.ico is in home dir as the actual favicon
 
