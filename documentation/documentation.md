@@ -1,5 +1,5 @@
 documentation.md
-Last modified: Tue Aug 03, 2021  01:28PM
+Last modified: Tue Aug 03, 2021  02:50PM
 
 
 # Grannycart.net notes and documentation
@@ -15,6 +15,7 @@ Last modified: Tue Aug 03, 2021  01:28PM
 	* directory structure goes in the root dir, only the menu.yml (index.md content) config goes in _data
 	* if you forget, just look at the about page structure
 * [ ] move how bicycle racing works from dynohub to grannycart
+* [ ] move filthyscum from Mort Rye to grannycart
 * [ ] write up documentation based on what things look like on the web page vs where they actually are in the file structure
 * [ ] After you get grannycart setup; set the account to be an "available for hire" account (in settings)
 * [ ] When you finally have a working site, clean up (or simply delete) all the previous commits
