@@ -1,5 +1,5 @@
 # menu.yml
-# Last modified: Fri Jul 30, 2021  03:44PM
+# Last modified: Tue Aug 03, 2021  06:51PM
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
@@ -13,6 +13,14 @@ entries:
   url: submarines
 - title: Design Is Evil
   url: evildesign/designevil
+- title: Bibliography
+  url: http://grannycart.net/bibliography/
+- title: Grand Jury Notes
+  url: http://github.com/grannycart/grand-jury
+- title: Music For Emma
+  url: http://grannycart.net/musicforemma/MusicforEmma
+- title: Prospect Park Bicycle Solution
+  url: http://grannycart.net/prospect-park-bike-solution/
 - title: Junk Drawer (an archive of the old an irrelevant)
   url: junk/junk
 
