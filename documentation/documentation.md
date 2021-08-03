@@ -1,5 +1,5 @@
 documentation.md
-Last modified: Mon Aug 02, 2021  03:49PM
+Last modified: Tue Aug 03, 2021  01:28PM
 
 
 # Grannycart.net notes and documentation
@@ -23,6 +23,7 @@ Last modified: Mon Aug 02, 2021  03:49PM
 	* https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain
 * [ ] set up favicon
 	* I did one pass at setting this up, but it looks terrible
+	* try doing a version where you just fill in the form of the cart as a solid. Might read OK small.
 * [ ] enable https? (It's a setting on github somewhere, I think.)
 * [ ] google analytics or goatcounter?
 	* Check out goatcounter
