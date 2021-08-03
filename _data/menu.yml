@@ -1,5 +1,5 @@
 # menu.yml
-# Last modified: Tue Aug 03, 2021  06:55PM
+# Last modified: Tue Aug 03, 2021  06:59PM
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
@@ -18,7 +18,7 @@ entries:
 - title: Grand Jury Notes
   url: http://github.com/grannycart/grand-jury
 - title: Music For Emma
-  url: http://github.com/musicforemma/
+  url: http://github.com/grannycart/musicforemma/
 - title: Prospect Park Bicycle Solution
   url: http://github.com/grannycart/prospect-park-bike-solution/
 - title: Junk Drawer (an archive of the old an irrelevant)
