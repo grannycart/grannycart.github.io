@@ -1,5 +1,5 @@
 old-draft-site-breakout-plan.md
-Last modified: Mon Aug 02, 2021  04:00PM
+Last modified: Tue Aug 03, 2021  12:54AM
 
 # Old draft plan for site breakout
 * [site breakouts](#breakout)
@@ -156,6 +156,13 @@ crazyideas.grannycart.net etc. A subdomain to focus your professional/city work.
 	* A section for ideas that are more baked than germs, but still half-baked
 	* germs might go in the repo, but are left off github pages
 	* After getting vetted to some degree they can go up half-finished in the development section
+* mortrye.grannycart.net
+	* Maybe Mort Rye is my cantankerous conspiracy-raising alter ego?
+	* Include:
+		* UFOs
+		* Design Is Evil
+		* the crazier germs
+		* anything that turns into a rant
 
 
 ----------------------------------------
