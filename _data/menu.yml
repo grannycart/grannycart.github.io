@@ -1,5 +1,5 @@
 # menu.yml
-# Last modified: Tue Aug 10, 2021  09:18PM
+# Last modified: Fri Aug 13, 2021  02:36AM
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
@@ -7,9 +7,11 @@ entries:
 - title: On cities
   url: cities/cities
   # Note: spacing of url line matters. DON'T use the .md extension in file you are linking to.
-
-- title: About
-  url: about
+  entries:
+    - title: CUP
+      url: cities/CUP/cup
+    - title: Prospect Park Bicycle Solution
+      url: http://github.com/grannycart/prospect-park-bike-solution/
 
 - title: Submarines
   url: submarines
@@ -29,14 +31,15 @@ entries:
 - title: Music For Emma
   url: http://github.com/grannycart/musicforemma/
 
-- title: Prospect Park Bicycle Solution
-  url: http://github.com/grannycart/prospect-park-bike-solution/
+- title: About
+  url: about
 
-- title: Junk Drawer (an archive of the old and irrelevant)
-  url: false
-  entries:
-    - title: UFOs
-      url: https://mortrye.medium.com/
+
+# - title: Junk Drawer (an archive of the old and irrelevant)
+#   url: false
+#   entries:
+#     - title: UFOs
+#       url: https://mortrye.medium.com/
 
 
 
