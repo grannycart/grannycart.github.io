@@ -2,7 +2,6 @@
 layout: home
 ---
 
-
 * [On cities](cities/cities.md)
 	* Add: CUP stuff
 	* Add: prospect park bike solution
