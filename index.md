@@ -2,6 +2,8 @@
 layout: home
 ---
 
+[//]: # (A test comment before main body text.)
+
 * [On cities](cities/cities.md)
 	* Add: CUP stuff
 	* Add: prospect park bike solution
@@ -14,5 +16,7 @@ layout: home
 * [Music For Emma](http://github.com/grannycart/musicforemma/)
 * [About](About.md)
 
+
+[//]: # (Just a test comment after main body text.)
 
 
