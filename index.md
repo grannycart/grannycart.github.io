@@ -5,19 +5,15 @@ layout: home
 [//]: # (A test comment before main body text.)
 
 * [On cities](cities/cities.md)
-	* Add: CUP stuff
-	* Add: prospect park bike solution
 * [On submarines](submarines.md)
-* [Design Is Evil](evildesign/designisevil.md)
-* [Bicycles](bicycles/bicycles.md)
-	* Add: how bike racing works
-* [Biblography](http://grannycart.net/bibliography/)
-* [Grand Jury Notes](http://github.com/grannycart/grand-jury)
-* [Music For Emma](http://github.com/grannycart/musicforemma/)
+* [On Bicycles](bicycles/bicycles.md)
+* [What's left at the bottom of the cart](junk-drawer/junkdrawer.md)
+
+[//]: # (could say 'slightly-off' instead of 'slightly anti-social'; could also be an ASBO reference -- UK anti-social laws)
+
+Grannycart is a collection of my writing (and some work in various other media) that is held together by nothing more than my own critical, overly-rational, and slightly anti-social perspective on the world.
 * [About](About.md)
 
-
-[//]: # (Just a test comment after main body text.)
 
 
 
