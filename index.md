@@ -9,17 +9,14 @@ layout: home
 |------------------------------------------------------------------------------|
 | [Bibliography](http://grannycart.net/bibliography/) Everything I've read in the last bunch of years that I thought was signifcant enough that I should keep a record of it. |
 
-
-|  
-V  
+![basic gray curved arrow](./assets/images/basic-gray-curved-arrow.png)
 
 My name is Mark Torrey. I'm a writer, apologist for gritty cities,
 visual critic, and general doubter of cultural and systemic hegemony.
 I have more than a decade of experience pondering the topics
 considered here on grannycart.net.
 
-|  
-V  
+![basic gray curved arrow](./assets/images/basic-gray-curved-arrow.png)
  
  | ## Outputs ->                                                        |
  |----------------------------------------------------------------------|
