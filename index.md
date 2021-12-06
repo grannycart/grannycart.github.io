@@ -9,6 +9,10 @@ cities, and general doubter of cultural and systemic hegemony.
 
 * [On submarines](https://grannycart.net/subworld-pages/) An untitled novel with some submarines in it.
 * [Music For Emma](MusicForEmma.html) A comprehensive history of 20th-Century pop music in the form of a mixtape.
+* Books I co-wrote and edited at the Center for Urban Pedagogy (CUP):
+	* [What Is Zoning?](What Is Zoning?)
+	* [What Is ULURP?](http://welcometocup.org/Store?product_id=203)
+	* [What Is Affordable Housing?](What Is Affordable Housing?)
 
 [//]: # (Consider that your one-line intro above might need some backing? Something like: more than a decade of experience)
 
