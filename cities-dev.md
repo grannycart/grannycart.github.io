@@ -1,6 +1,6 @@
 ---
 layout: page
-title: On cities
+title: cities-dev
 ---
 
 
@@ -8,7 +8,7 @@ title: On cities
 	* CUP stuff
 	* Letter to Harper's
 	* Immigrant essay
-	* Add: prospect park bike solution
+	* Add: prospect park bike solution?
 
 Some text
 
