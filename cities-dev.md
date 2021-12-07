@@ -10,7 +10,21 @@ title: cities-dev
 	* Immigrant essay
 	* Add: prospect park bike solution?
 
-Some text
+## CUP pic links:
+* zoning guidebook: http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg
+* ULURP guidebook: http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg
+* Affordable housing guidebook: http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg
+
+
+## A CUP test grid
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| <img width="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg"> What Is Zoning? | 
+<img width="100" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg"> What is ULURP? | 
+<img width="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg"> What is Affordable Housing? |
+
+
 
 ## A grid example
 
