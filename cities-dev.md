@@ -9,6 +9,7 @@ title: cities-dev
 	* Letter to Harper's
 	* Immigrant essay
 	* Add: prospect park bike solution?
+	* Svalbard essay?
 
 ## CUP pic links:
 * zoning guidebook: http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg
@@ -20,25 +21,9 @@ title: cities-dev
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img width="50" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg"> What Is Zoning? | <img width="50" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg"> What is ULURP? | [<img width="50" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">](welcometocup.org) What is Affordable Housing? |
+| [<img width="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">](http://welcometocup.org/Store?product_id=64) What Is Zoning? | [<img width="100" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg">](http://welcometocup.org/Store?product_id=203) What is ULURP? | [<img width="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">](http://welcometocup.org/Store?product_id=16) What is Affordable Housing? |
 
+[//]: # (Grid explanation: in the square brackets is a bit of html that gives the image with in pixels, alt text, and source image. In the reguaral parenthese following the square bracket is where you go if you click on the image in the square bracket. Following that is text displayed next to the image. The pipe separates item in that row of the grid.)
 
-
-## A grid example
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-
-
-## Same grid with a custom pic
-
-|                                                                                                                                                                         |                                                                                                                                                                         |                                                                                                                                                                         |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                               <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="">  blah                                               |                <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="http://welcometocup.org/image_columns/0012/2684/anklemonitor_560.jpg">                | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> |
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> |
-| <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png"> |
 
 
