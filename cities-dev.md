@@ -5,7 +5,6 @@ title: cities-dev
 
 
 
-
 ## Stuff to Add: 
 	* CUP stuff
 	* Letter to Harper's
