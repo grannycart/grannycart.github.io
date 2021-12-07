@@ -25,9 +25,10 @@ title: cities-dev
 
 **I wrote, art-directed, and edited these projects (still need to fill in)**
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| [<img width="100" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg">](http://welcometocup.org/Store?product_id=203) <br /> What is ULURP? | [<img width="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">](http://welcometocup.org/Store?product_id=16) <br /> What is Affordable Housing? | [<img width="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">](http://welcometocup.org/Store?product_id=64) <br /> What Is Zoning? |
+| | | | |
+|:-:|:-------------------------:|:-------------------------:|:-------------------------:|
+| | [<img width="100" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg">](http://welcometocup.org/Store?product_id=203) <br /> What is ULURP? | [<img width="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">](http://welcometocup.org/Store?product_id=16) <br /> What is Affordable Housing? | [<img width="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">](http://welcometocup.org/Store?product_id=64) <br /> What Is Zoning? |
 
+[//]: # (above with experimental empty first column to try to force all the other columns to stay the same width)
 
 
