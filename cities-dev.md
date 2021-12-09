@@ -27,10 +27,12 @@ title: cities-dev
 
 
 <center>
-<a href="http://welcometocup.org/Store?product_id=203"><img width="100" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg"></a> What is ULURP?
-<a href="http://welcometocup.org/Store?product_id=16"><img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg"></a> What is Affordable Housing?   
-Some text not in a bullet because it follows a double-space at end of line above  
-<a href="http://welcometocup.org/Store?product_id=64"><img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg"></a> What Is Zoning?  
+<a href="http://welcometocup.org/Store?product_id=203"><img width="100" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg"></a> <br /> 
+What is ULURP? <br />
+<a href="http://welcometocup.org/Store?product_id=16"><img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg"></a> <br /> 
+What is Affordable Housing? <br />
+<a href="http://welcometocup.org/Store?product_id=64"><img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg"></a>  <br /> 
+What Is Zoning? <br /> 
 </center>
 
 [//]: # (pandoc md has a syntax for controlling image size in pure md, but github doesnt. So you have to use the inserted url img tag. Same deal if you want to center stuff you need to use the center tag.)
