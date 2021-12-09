@@ -32,5 +32,6 @@ What is Affordable Housing?
 * [<img width="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">](http://welcometocup.org/Store?product_id=64)  
 What Is Zoning?
 * ![What Is Zoning?](http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg) 
+* ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | height=100)
 
 
