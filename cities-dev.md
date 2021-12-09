@@ -30,7 +30,7 @@ What is ULURP?
 * [<img width="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">](http://welcometocup.org/Store?product_id=16)  
 What is Affordable Housing? 
 * [<img width="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">](http://welcometocup.org/Store?product_id=64)  
-What Is Zoning? 
-
+What Is Zoning?
+* ![What Is Zoning?](http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg | height=100) 
 
 
