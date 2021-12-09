@@ -28,7 +28,7 @@ title: cities-dev
 
 <center>
 **What is ULURP?** <br />
-<a href="http://welcometocup.org/Store?product_id=203"><img width="100" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg"></a> <br /> 
+<a href="http://welcometocup.org/Store?product_id=203"><img width="100" align="left" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg"></a> 
 A text block that maybe describes what this ULURP project is and how I was involved with it. <br /> 
 
 **What is Affordable Housing?** <br />
