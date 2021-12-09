@@ -25,11 +25,14 @@ title: cities-dev
 
 **I wrote, art-directed, and edited these projects (still need to fill in)**
 
+
+<p align="center">
 * [<img width="100" alt="What is ULURP?" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg">](http://welcometocup.org/Store?product_id=203) What is ULURP? 
 * [<img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">](http://welcometocup.org/Store?product_id=16) What is Affordable Housing?   
 Some text not in a bullet because it follows a double-space at end of line above
-* [<img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">](http://welcometocup.org/Store?product_id=64) What Is Zoning?
+[<img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">](http://welcometocup.org/Store?product_id=64) What Is Zoning?
+</p>
 
-[//]: # (pandoc md has a syntax for controlling image size in pure md, but github doesnt. So you have to use the inserted url img tag)
+[//]: # (pandoc md has a syntax for controlling image size in pure md, but github doesnt. So you have to use the inserted url img tag. Same deal if you want to center stuff you need to use the align=center in the p html tag.)
 
 
