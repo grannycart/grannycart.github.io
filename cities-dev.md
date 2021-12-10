@@ -16,17 +16,13 @@ title: cities-dev
 ## I wrote, art-directed, and edited these projects (still need to fill in)
 
 **[What is ULURP?](http://welcometocup.org/Store?product_id=203)**  
+<img width="100" alt="What is ULURP? guidebook picture" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg"><br />
 A text block that maybe describes what this ULURP project is and how I was involved with it. 
-<center>
-<img width="100" alt="What is ULURP? guidebook picture" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg">
-</center>
 
 
 **[What is Affordable Housing?](http://welcometocup.org/Store?product_id=16)**  
+<img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg"><br />
 A text block that maybe describes what this affordable housing project is and how I was involved with it. 
-<center>
-<img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">
-</center>
 
 
 **[What Is Zoning?](http://welcometocup.org/Store?product_id=64)**
