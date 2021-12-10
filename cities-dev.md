@@ -19,15 +19,19 @@ title: cities-dev
 <a href="http://welcometocup.org/Store?product_id=203">What is ULURP?</a><br />
 A text block that maybe describes what this ULURP project is and how I was involved with it. 
 <br />
+<br />
 
 <img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">
-**[What is Affordable Housing?](http://welcometocup.org/Store?product_id=16)**  
+<a href="http://welcometocup.org/Store?product_id=16">What is Affordable Housing?</a><br />
 A text block that maybe describes what this affordable housing project is and how I was involved with it. 
-
+<br />
+<br />
 
 <img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">
-**[What Is Zoning?](http://welcometocup.org/Store?product_id=64)**  
+<a href="http://welcometocup.org/Store?product_id=64">What Is Zoning?</a><br />
 A text block that maybe describes what this zoning project is and how I was involved with it. 
+<br />
+<br />
 
 
 
