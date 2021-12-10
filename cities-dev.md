@@ -30,7 +30,7 @@ A text block that maybe describes what this affordable housing project is and ho
 
 
 **[What Is Zoning?](http://welcometocup.org/Store?product_id=64)**
-<img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">
+<img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg"><br />
 A text block that maybe describes what this zoning project is and how I was involved with it. 
 
 
