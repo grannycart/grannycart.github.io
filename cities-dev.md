@@ -34,15 +34,15 @@ A text block that maybe describes what this zoning project is and how I was invo
 <br />
 
 ### Another way the same material could be coded:
-* What is ULURP?
+1. What is ULURP?
+	* A text block that maybe describes what this zoning project is and how I was involved with it. 
 	* <img width="100" alt="What is ULURP? guidebook picture" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg">
+2. What is Affordable Housing?
 	* A text block that maybe describes what this zoning project is and how I was involved with it. 
-* What is Affordable Housing?
 	* <img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">
+3. What is Zoning?
 	* A text block that maybe describes what this zoning project is and how I was involved with it. 
-* What is Zoning?
 	* <img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">
-	* A text block that maybe describes what this zoning project is and how I was involved with it. 
 
 
 
