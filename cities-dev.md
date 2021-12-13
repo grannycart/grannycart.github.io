@@ -34,15 +34,14 @@ A text block that maybe describes what this zoning project is and how I was invo
 <br />
 
 ### Another way the same material could be coded:
-1. What is ULURP?
+* What is ULURP?
 	* A text block that maybe describes what this zoning project is and how I was involved with it. 
 	* <img width="100" alt="What is ULURP? guidebook picture" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg">
-2. What is Affordable Housing? <img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">
+* What is Affordable Housing? <img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg">
 	* A text block that maybe describes what this zoning project is and how I was involved with it. 
-3. What is Zoning?
-	* A text block that maybe describes what this zoning project is and how I was involved with it. 
-	* <img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">
+* [What is Zoning?](http://welcometocup.org/Store?product_id=64) <img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg">
 
+	* A text block that maybe describes what this zoning project is and how I was involved with it. 
 
 
 [//]: # (pandoc md has a syntax for controlling image size in pure md, but github doesnt. So you have to use the inserted url img tag. Same deal if you want to center stuff you need to use the center tag.)
