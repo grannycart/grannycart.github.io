@@ -47,7 +47,8 @@ Some plain text introduction. It might go on for a bit. So we want to see what t
 Some plain text introduction. It might go on for a bit. So we want to see what that looks like if it covers a few lines.
 * [What is ULURP?](http://welcometocup.org/Store?product_id=203) <center><br /><img width="100" alt="What is ULURP? guidebook picture" src="http://welcometocup.org/image_columns/0009/2619/guidebook-3d-2_433.jpg"></center>
 	* A text block that maybe describes what this zoning project is and how I was involved with it. 
-* [What is Affordable Housing?](http://welcometocup.org/Store?product_id=16) <center><br /><img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg"></center>
+* [What is Affordable Housing?](http://welcometocup.org/Store?product_id=16)  
+<center><img height="100" alt="What is Affordable Housing?" src="http://welcometocup.org/image_columns/0003/3593/what_is_affordable_housing_profile_520.jpg"></center>
 	* A text block that maybe describes what this zoning project is and how I was involved with it. 
 * [What is Zoning?](http://welcometocup.org/Store?product_id=64) <center><br /><img height="100" alt="What Is Zoning?" src="http://welcometocup.org/image_columns/0003/2482/what_is_zoning_book_side_519.jpg"></center>
 
