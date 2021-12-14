@@ -19,6 +19,7 @@ These are illustrated guidebooks that break down complex land-use issues affecti
 	* Once you understand how affordable housing works in NYC, you might want to check out Chicago as well.
 
 ### Fold-out Posters:
+These projects in CUP's Making Policy Public (MPP) program cover a wide variety of social justice issues. I wrote, edited, and art-directed these pamphelts that fold out to large posters. (Roughly 2500 words each, plus graphics.)
 * [Not on our Watch!](http://welcometocup.org/Store?product_id=273)
 * [Get Support in Housing Court!](http://welcometocup.org/Store?product_id=267)
 * [What is a Public Charge?](http://welcometocup.org/Store?product_id=253)
