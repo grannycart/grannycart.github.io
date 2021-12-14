@@ -9,7 +9,7 @@ cities, and general doubter of cultural and systemic hegemony.
 
 * [On submarines](https://grannycart.net/subworld-pages/) An untitled novel with some submarines in it.
 * [Music For Emma](MusicForEmma.html) A comprehensive history of 20th-Century pop music in the form of a mixtape.
-* [On cities](cities.md)
+* [On cities](cities/cities.md)
 
 [//]: # (Consider that your one-line intro above might need some backing? Something like: more than a decade of experience)
 
