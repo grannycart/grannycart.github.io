@@ -2,8 +2,6 @@
 layout: home
 ---
 
-[//]: # (A test comment before main body text.)
-
 My name is Mark Torrey. I'm a writer, visual critic,apologist for gritty
 cities, and general doubter of cultural and systemic hegemony. 
 
@@ -13,5 +11,5 @@ cities, and general doubter of cultural and systemic hegemony.
 
 [//]: # (Consider that your one-line intro above might need some backing? Something like: more than a decade of experience)
 
-[//]: # (Possible containers: cities (maybe places if it is going to include the svalbard essay?), submarines, bicycles, whats left at the bottom of the car ie junk drawer)
+[//]: # (Possible containers: cities maybe places if it is going to include the svalbard essay?, submarines, bicycles, whats left at the bottom of the cart -- ie junk drawer)
 
