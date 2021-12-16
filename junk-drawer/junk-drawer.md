@@ -16,7 +16,6 @@ Everything I ever read.
 What to do if you are picked for a grand jury.
 
 
-[//]: # (This might also go here: Design Is Evil evildesign/designisevil.md)
 
 
 
