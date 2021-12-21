@@ -1,5 +1,5 @@
 items-to-add-to-grannycart.md
-Last modified: Thu Dec 16, 2021  03:11PM
+Last modified: Tue Dec 21, 2021  12:02PM
 
 # Items to add to grannycart
 
@@ -42,6 +42,9 @@ Last modified: Thu Dec 16, 2021  03:11PM
 * [X] Bibliography
 * [ ] Grand Jury Notes
 * [ ] Design is evil
+* [ ] Personhunt rules
+	* Maybe write an introduction that includes an admission that the rules are byzantine
+	* But also that the game has good balance and is super fun with a wide range of kid's ages
 
 
 ## other stuff
