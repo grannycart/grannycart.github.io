@@ -7,7 +7,7 @@ title: A Letter to Harper's
 
 The subject of why and how rich people are ruining NYC, and what can be
 done about it, has become a perennial favorite of the long-form article
-class. In 2018 Kevin Baker took a pass at it in Harper's Magazine:
+class. In 2018 Kevin Baker took a pass at it in Harper's Magazine:  
 https://harpers.org/archive/2018/07/the-death-of-new-york-city-gentrification/
 
 Since I know a thing or two about cities, and about NYC in particular,
@@ -30,7 +30,8 @@ whole thing to themselves. We need bigger solutions to this big problem.
 
 I guess the editors of Harper's saw some merit to my point, but perhaps
 felt I wasn't being quite concise enough about it. They heavily edited
-what I submitted to them. Here's my letter, as published:
+what I submitted without discussing it with me. Here's my letter, as
+published:  
 https://harpers.org/archive/2018/09/letters-september-2018/
 
 And here's the letter as I submitted it. (I have no say as to which
