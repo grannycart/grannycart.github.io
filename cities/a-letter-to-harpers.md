@@ -7,17 +7,17 @@ title: A Letter to Harper's
 
 The subject of why and how rich people are ruining NYC, and what can be
 done about it, has become a perennial favorite of the long-form article
-class. In 2018 Kevin Baker took a pass at it in Harper's Magazine:  
+class. In 2018 Kevin Baker took his pass at it in Harper's Magazine:  
 https://harpers.org/archive/2018/07/the-death-of-new-york-city-gentrification/
 
-Since I know a thing or two about cities, and about NYC in particular,
-I thought I should stage dive into the mosh pit on this one. I felt
-like Baker had succumbed to the overly-simplified explanations of and
-solutions to gentrification proffered by those who believe the systemic
-malfeasance of the world is driven more by failings of markets and
-public policy than by the larger cultural forces of global capital.
-I wrote a response letter to Harper's Magazine expounding on this
-criticism, which they duly published.
+Being a long-time fan of Harper's, and since I know a thing or two
+about cities --- and about NYC in particular --- I decided to stage
+dive into the mosh pit on this one. I felt like Baker had succumbed to
+the overly-simplified explanations of and solutions to gentrification
+proffered by those who believe the systemic malfeasance of the world is
+driven more by failings of markets and public policy than by the larger
+cultural forces of global capital. I wrote a response letter to Harper's
+Magazine expounding on this criticism, which they duly published.
 
 To be fair to Baker, it's a bit of a cheap shot on my part to claim
 that problems of gentrification are far too complex to address with a
