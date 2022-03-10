@@ -1,5 +1,5 @@
 items-to-add-to-grannycart.md
-Last modified: Tue Dec 21, 2021  12:02PM
+Last modified: Wed Mar 09, 2022  08:10PM
 
 # Items to add to grannycart
 
@@ -40,6 +40,7 @@ Last modified: Tue Dec 21, 2021  12:02PM
 * [ ] essay on inputs and outputs
 * [X] Music for Emma
 * [X] Bibliography
+* [ ] MANONSK
 * [ ] Grand Jury Notes
 * [ ] Design is evil
 * [ ] Personhunt rules
