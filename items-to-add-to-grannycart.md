@@ -1,5 +1,5 @@
 items-to-add-to-grannycart.md
-Last modified: Wed Mar 09, 2022  08:10PM
+Last modified: Fri May 27, 2022  12:07PM
 
 # Items to add to grannycart
 
@@ -41,7 +41,7 @@ Last modified: Wed Mar 09, 2022  08:10PM
 * [X] Music for Emma
 * [X] Bibliography
 * [ ] MANONSK
-* [ ] Grand Jury Notes
+* [X] Grand Jury Notes
 * [ ] Design is evil
 * [ ] Personhunt rules
 	* Maybe write an introduction that includes an admission that the rules are byzantine

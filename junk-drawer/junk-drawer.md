@@ -14,7 +14,7 @@ What to do if you are picked for a grand jury and you care about, you know, just
 * Here is a [pdf version](./grand-jury-notes.pdf).
 
 ## [Biblography](http://grannycart.net/bibliography/)
-Most everything I ever read. Praise for good work, and complaints and arguments against the bad work.
+Most everything I ever read (listed in bibtex format). Praise for good work, and complaints and arguments against the bad work.
 
 
 
