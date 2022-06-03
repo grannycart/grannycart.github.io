@@ -1,5 +1,5 @@
 items-to-add-to-grannycart.md
-Last modified: Fri May 27, 2022  12:07PM
+Last modified: Fri Jun 03, 2022  05:50PM
 
 # Items to add to grannycart
 
@@ -11,14 +11,15 @@ Last modified: Fri May 27, 2022  12:07PM
 
 
 ## On bicycles
+* [ ] BBQ bike
 * [ ] How bike racing works
 * [ ] The great bic pen bike lock scare of '04
-* [ ] BBQ bike
 * [ ] Prospect Park bicycle solution
 * [ ] SCUL chopper nomination
 
 
 ## On cities
+* [ ] A Canon for Planners
 * [ ] Park slope essay
 * [ ] Our stone age future?
 * [ ] The revolution will not be audible
