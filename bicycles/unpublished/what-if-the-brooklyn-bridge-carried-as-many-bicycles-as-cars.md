@@ -1,12 +1,12 @@
 what-if-the-brooklyn-bridge-carried-as-many-bicycles-as-cars.md
-Last modified: Wed Jun 15, 2022  06:30PM
+Last modified: Wed Jun 15, 2022  06:31PM
 
 
 2022-06-15 18:03:39
 
 The Brooklyn Bridge carries 150,000 cars per day.
 
-Recent research shows that with the opening of the new bike path that consumed a Manhattan-bound lane of the bridge, the bridge is now carrying ~4000 bicycles a day. That is a big increase, something like 25% more bicycles, from before when bicycles had to share the pedestrian path.
+Recent research shows that with the opening of the new bike path (a major win for the tourist pedestrians on the bridge, more so than for the cyclist down with the car exhaust) that consumed a Manhattan-bound lane of the bridge, the bridge is now carrying ~4000 bicycles a day. That is a big increase, something like 25% more bicycles, from before when bicycles had to share the pedestrian path.
 
 But each lane of the bridge was previously carrying 25,000 cars per day (150,000 / 6 lanes). Assuming a single person per car (not an inappropriate assumption at all) the bicycle lane would need to be carrying 25,000 bicycles a day to make up for the loss of car traffic.
 
