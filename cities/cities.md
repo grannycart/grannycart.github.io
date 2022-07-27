@@ -9,4 +9,6 @@ title: On Cities
 
 ## [A a letter published in Harper's Magazine about gentrification in NYC](a-letter-to-harpers.md)
 
+[//]: # (Set up A Canon For Planners as its won repo and add here)
+
 
