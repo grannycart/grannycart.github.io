@@ -1,0 +1,173 @@
+% !TEX TS-program = xelatex
+% Above line should force texshop to compile with XeLaTeX - update: seems like these lines are necessary for texshop on Mac, but not texlive on linux
+%!TEX encoding =  UTF-16
+
+
+% :set lbr % Gives you line breaks on words
+% :set spell % spell check on
+% :set breakindent % wraps lines to same as indent!
+% :set autoindent % indents next line same as previous --- though maybe only indents at tab?
+% :set foldmethod=indent % folds on indents - only works if indents are tabs though? Also consider foldmethod=manual
+% :set foldcolumn=1 % turns on column that shows where folds are
+% za = open or close current fold zo = open fold zc = close fold v{motion]zf = create fold manually zd = delete fold zR = open all folds zM = close all folds
+
+
+
+% ----------------------------------------------------------------------------------------%
+%	Originally Created by Alessandro with TeXShop					%
+%	---->	May 27, 2009								%
+%	Compiled with XeLaTeX, on Mac OS X						%
+%	Licensed under the Creative Commons Attribution 3.0 Unported			%
+%	Share, change, spread, and have fun!						%
+%	http://creativecommons.org/licenses/by/3.0/					%
+%	You can find more at http://aleplasmati.comuv.com				%
+% ----------------------------------------------------------------------------------------%
+
+
+%%%%%%%%%%% Compiling notes %%%%%%%%%%%%
+% Compile with xelatex instead of pdflatex
+% On mac install basictex. Then use "sudo tlmgr install titlesec bbding" to install necessary extra packages. Download Gillius ADF and install it with Font book to get the necessary open-source Gill sans knock off this requires.
+% alternatively, on Mac you could use real Gill sans. See inline notes.
+% xelatex needs the package texlive-xetex on Ubuntu. 
+% On ubuntu bbding needs the package texlive-fonts-extra
+% To install Gillius ADF on ubuntu: find out if you have a font installed, and what to call it with fontspec by using fc-list and grep the output for the font you want
+%
+% Compile on command line with xelatex [filename].tex
+
+
+\documentclass[letterpaper]{article}
+
+
+
+% See geometry.pdf to learn the layout options. There are lots.
+\usepackage[hmargin=0.5in, vmargin=0.5in]{geometry}               
+%symbols - the ones you see on the left of the email and of the phone
+\usepackage{bbding} 
+%Colors/Graphics
+\usepackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\setlength{\parindent}{0pt} % set paragraph indent to 0
+
+
+% NOTE: For some reason normal latex stuff like --- and ``'' don't
+% work on this document. Use: –
+%Fonts and Tweaks for XeLaTeX
+% \defaultfontfeatures{Mapping=tex-text}
+% \setmainfont{Futura}
+% \setromanfont[Mapping=tex-text]{Hoefler Text} 
+% \setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Gill Sans}
+% \setmonofont[Scale=MatchLowercase]{Andale Mono}
+% setting the fonts was fucking up my sans stuff.  Using \fontspec{} in the places
+% where fonts change instead.
+\usepackage{fontspec,xltxtra,xunicode}
+
+%\hyphenpenalty=5000
+%\tolerance=1000 % these 2 lines minimize hyphenation
+
+
+%Setup hyperref package, and colours for links, text and headings
+% Do a link in the document like this: \href{http://welcometocup.org/Store?product_id=64}{guidebook about zoning}
+\usepackage{hyperref}
+%\definecolor{linkcolour}{HTML}{FF0080}	%light purple link for the email
+\definecolor{linkcolour}{HTML}{0000EE}	%MT: changed html link to blue color
+\definecolor{shade}{HTML}{D4D7FE}	%light blue shade
+\definecolor{text1}{HTML}{2b2b2b}	%text is almost black
+% \definecolor{headings}{HTML}{704214} 	%Sepia, change this if you want to change the headings colors
+\definecolor{headings}{HTML}{701112} 	%dark red
+
+\hypersetup{	colorlinks,breaklinks,
+			urlcolor=linkcolour, 
+			linkcolor=linkcolour}
+
+\usepackage{fancyhdr}				%custom footer
+\pagestyle{fancy}
+\fancyhf{}
+% \rfoot{\color{headings} {\sffamily Last update: \today}. Typeset with X\LaTeX}
+%this footer line is useless
+\renewcommand{\headrulewidth}{0pt}
+
+\usepackage{titlesec}				%custom \section
+
+\titleformat{\section}
+	{\color{headings}
+		% \scshape\Large\raggedright}{}{0em}{}[\color{headings}\titlerule] % Section header with horizonal rule
+		\scshape\Large\raggedright}{}{0em}{}[\color{headings}] % Section header without horizonal rule
+
+\titlespacing{\section}{0pt}{0pt}{5pt}
+
+\newenvironment{flushRnew}{\bgroup\vspace{0mm}\flushright}{\endflushright\egroup}
+
+
+\begin{document}
+% \fontspec{Gill Sans} % probably works on Mac, but not on ubuntu
+\fontspec{Gillius ADF}
+
+\color{text1} % set text color for the whole doc
+%<<<< TITLE >>>>
+
+	
+\Huge \textbf{Mark Torrey} \hfill \small 26 Hinckley Place \#1, Brooklyn, NY 11218 \color{headings}\raisebox{-3pt}{\Phone} \color{text1}(617) 519 1784 \color{headings}{\raisebox{-3pt}{\Envelope}} \color{text1}mt493@cornell.edu\\
+\vspace{14pt} % adjusts space from heading line to content
+\color{headings}\hrulefill % give a horizontal rule in heading color
+\color{text1} % set text color back to black
+
+% \fontspec{Gill Sans MT} % probably works on Mac, but not on ubuntu
+% I guess on Mac I originally used this Microsoft variant on Gill Sans or something for the rest of the document, for some reason.
+
+% \clearpage \vspace*{\fill} \begin{center} \begin{minipage}{\textwidth} \centering{This is some text to be centred vertically.} \end{minipage} \end{center} \vfill % equivalent to \vspace{\fill} \clearpage 
+%This stuff centers the content on the page:
+\vspace*{\fill}
+\begin{center}
+
+	\begin{minipage}[t]{13cm} % Set width of header for middle section here.
+		% This should match width of table columns
+\large
+	\vspace{0pt}	%trick
+	
+\section{Essay Prompt Response}
+\begin{tabular}{p{13cm}}%  p{4.4cm}} 
+	% Kinda a hack here, but using a one-column table to make the middle text smaller than the titlesec. Commented out second column width. Syntax for second column (if you need it later for some reason) here:
+%	$\bullet$~Community Education	& $\bullet$~Public Policy\\
+Equity is not the same as affordability. The Hudson Yards development
+here in NYC includes a number of units affordable to very low-income
+families. But if a low-income family could afford to live anywhere in
+the city, would they choose the shiny new Hudson Yards neighborhood?
+I doubt it. It is simply too sterile a place, too manicured, too
+\emph{designed} to be a comfortable place for anyone who is not a
+billionaire to live. Even if low-income people can afford housing in
+a neighborhood, to be an \emph{equitable} neighborhood they need to
+feel \emph{comfortable} there too. So how do we create comfortable and
+equitable neighborhoods?
+~\\ % Carriage return
+~\\ % Carriage return
+I believe we need something akin to a "hygiene hypothesis" for cities.
+You are probably familiar with this notion from medicine – that
+as humans have sanitized our environment, our immune systems have
+become bored with nothing to do so they start over-reacting, giving us
+degenerative and allergic diseases. Similarly, when wealthy people shape
+cities, they so sanitize our built environment that our neighborhoods
+face the city equivalent of degenerative disease.
+~\\ % Carriage return
+~\\ % Carriage return
+Currently planners, architects, designers, developers, and even
+community activists have few tools to address neighborhoods in any way
+other than just fighting for who gets access to new things. We need to
+work on developing policies that encourage and protect the "lived-in"
+feeling of comfortable neighborhoods. When we do permit new things to
+be added to a neighborhood, we should consider the way the materials
+wear – so even if the building or neighborhood is new now, hopefully
+it will feel "lived-in" someday. And we need to continually apply a
+critical perspective to make sure that valuing the lived-in part of a
+neighborhood is not used as an excuse to neglect neighborhoods that need
+investment from the city.
+
+\end{tabular}\\
+% ~\\ % I think this just acts as a carriage return outside the table, if you need it
+\end{minipage} %END of minipage
+\end{center}
+\vfill
+\clearpage
+%
+\end{document}  
+
+
