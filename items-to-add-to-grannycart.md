@@ -1,8 +1,8 @@
 items-to-add-to-grannycart.md
-Last modified: Fri Jun 03, 2022  05:50PM
+Last modified: Tue Aug 09, 2022  12:12PM
 
 # Items to add to grannycart
-
+(this list should be merged with list in shuttlebay)
 
 ## On submarines
 * [ ] essay on why write submarine stories
