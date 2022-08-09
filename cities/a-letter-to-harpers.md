@@ -28,11 +28,10 @@ will spur rich people to make space for all classes and cultures in our
 city. The rich people just love the city *too* much now. They want the
 whole thing to themselves. We need bigger solutions to this big problem.
 
-Looking back on it post-pandemic, the letter does seem a
-little prescient. And I guess the editors of Harper's saw
-some merit to my point, but perhaps felt I wasn't being quite
-concise enough about it. They heavily edited what I submitted
-without discussing it with me. Here's my letter, as published: 
+And I guess the editors of Harper's saw some merit to my point, but
+perhaps felt I wasn't being quite concise enough about it. They heavily
+edited what I submitted without discussing it with me. Here's my letter,
+as published:
 https://harpers.org/archive/2018/09/letters-september-2018/
 
 And here's the letter as I submitted it. (I have no say as to which
@@ -63,7 +62,8 @@ restraint. It is possible that this empty warehousing of units that even
 the mega-wealthy are unable to afford is one of the first signs that a
 collapse like this will be upon us soon. We must be ready for action._
 
-
+Looking back on it post-pandemic, the letter does seem a
+little prescient. 
 
 
 
