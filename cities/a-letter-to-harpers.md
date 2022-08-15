@@ -7,7 +7,8 @@ title: A Letter to Harper's
 
 The subject of why and how rich people are ruining NYC, and what can be
 done about it, has become a perennial favorite of the long-form article
-class. In 2018 Kevin Baker took his pass at it in Harper's Magazine:  
+writing class. In 2018 Kevin Baker took his pass at it in Harper's
+Magazine:
 https://harpers.org/archive/2018/07/the-death-of-new-york-city-gentrification/
 
 Being a long-time fan of Harper's, and since I know a thing or two
@@ -19,19 +20,25 @@ driven more by failings of markets and public policy than by the larger
 cultural forces of global capital. I wrote a response letter to Harper's
 Magazine expounding on this criticism, which they duly published.
 
-To be fair to Baker, it's a bit of a cheap shot on my part to claim
-that problems of gentrification are far too complex to address with a
-few policy tweaks. Of *course* they are. It just bugs me when they are not
+To be fair to Baker, it's a bit of a cheap shot on my part to claim that
+problems of gentrification are far too complex to address with a few
+policy tweaks. Of *course* they are. It just bugs me when they are not
 framed that way. Yes, let's try messing with local housing policy ---
-how can we not? But let's not kid ourselves by pretending policy changes
-will spur rich people to make space for all classes and cultures in our
-city. The rich people just love the city *too* much now. They want the
-whole thing to themselves. We need bigger solutions to this big problem.
+how can we not? --- But let's not kid ourselves by pretending policy
+changes will spur rich people to make space for all classes and cultures
+in our city. The rich people just love the city *too* much now. They
+want the whole thing to themselves. We need bigger solutions to this big
+problem.
 
-And I guess the editors of Harper's saw some merit to my point, but
-perhaps felt I wasn't being quite concise enough about it. They heavily
-edited what I submitted without discussing it with me. Here's my letter,
-as published:
+And I guess the editors of Harper's saw some merit to my point. Looking
+back now --- in light of the housing turmoil brought on by the pandemic
+--- it does seem to have a touch of prescience about it.
+
+[//]: # (Maybe delete the unedited version? See writing sample for ANHD)
+
+Perhaps Harper's felt I wasn't being quite concise enough about it. They
+heavily edited what I submitted without discussing it with me. Here's my
+letter, as published:
 https://harpers.org/archive/2018/09/letters-september-2018/
 
 And here's the letter as I submitted it. (I have no say as to which
@@ -62,8 +69,6 @@ restraint. It is possible that this empty warehousing of units that even
 the mega-wealthy are unable to afford is one of the first signs that a
 collapse like this will be upon us soon. We must be ready for action._
 
-Looking back on it post-pandemic, the letter does seem a
-little prescient. 
 
 
 
