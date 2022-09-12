@@ -10,6 +10,9 @@ Created for a unique rezoning initiated in the Two-Bridges neighborhood. This re
 ## Research maps of Chicago
 An analysis of MFI by community area in Chicago. These were maps for research purposes, not publication. 
 
+## R script to calculate MFI
+A simple R script I wrote to use linear interpolation to calculate Median Family Income of Chicago community areas.
+
 ## Research maps of NYC
 An analysis of MFI by sub-borough area/PUMA in NYC. These were maps for research purposes, not publication.
 
