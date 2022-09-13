@@ -18,9 +18,9 @@ An analysis of MFI by sub-borough area/PUMA in NYC. These were maps for research
 
 ## Gulf Coast Mississippi GIS Analysis
 Maps I created of Biloxi for an internship and for my graduate thesis.
-[East Biloxi context map](bioloxi/EB_context.pdf)
-[East Biloxi detail map](bioloxi/EB_detail.pdf)
-[GIS Analysis of suitable development locations on the Gulf Coast](bioloxi/presentation_07292009_complete2.pdf)
+* [East Biloxi context map](biloxi/EB_context.pdf)
+* [East Biloxi detail map](biloxi/EB_detail.pdf)
+* [GIS Analysis of suitable development locations on the Gulf Coast](biloxi/presentation_07292009_complete2.pdf)
 
 
 ## Maps I did for a landscape architecture studio
