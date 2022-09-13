@@ -40,15 +40,15 @@ A little designy-ier, a little more unconventional, a little more polished. All 
 * [Philadelphia parks](LAstudio/phil_parks_bike.pdf)
 * [Philadelphia zoning](LAstudio/phil_zoning.pdf)
 
-### Site concepts for development (renderings
+### Site concepts for development (renderings in Sketchup, Illustrator, and other vector-based software)
 * [site-base-map.png](LAstudio/site-base-map.png)
-* [concept-3-plan.pdf](LAstudio/concept-3-plan.pdf)
+* [concept-5-topo.pdf](LAstudio/concept-5-topo.pdf)
+* [concept-5-persp.pdf](LAstudio/concept-5-persp.pdf)
 * [concept-4-plan-axon-explo.pdf](LAstudio/concept-4-plan-axon-explo.pdf)
 * [concept-4-plan.pdf](LAstudio/concept-4-plan.pdf)
-* [concept-5-persp.pdf](LAstudio/concept-5-persp.pdf)
-* [concept-5-topo.pdf](LAstudio/concept-5-topo.pdf)
+* [concept-3-plan.pdf](LAstudio/concept-3-plan.pdf)
+* [infrastructure-to-grow.pdf](LAstudio/infrastructure-to-grow.pdf)
 * [first-model-V-ag-proposal.png](LAstudio/first-model-V-ag-proposal.png)
 * [first-model-low-rowhouses-proposal.png](LAstudio/first-model-low-rowhouses-proposal.png)
-* [infrastructure-to-grow.pdf](LAstudio/infrastructure-to-grow.pdf)
 
 
