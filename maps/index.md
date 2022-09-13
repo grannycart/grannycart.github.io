@@ -10,11 +10,8 @@ Created for a unique rezoning initiated in the Two-Bridges neighborhood. This re
 
 ## Research maps of Chicago
 An analysis of MFI by community area in Chicago. These were maps for research purposes, not publication. 
-* [CUP-AHT-Chicago-Areas.pdf](chicago/CUP-AHT-Chicago-Areas.pdf)
-* [Chicago-areas-with-MFI-pop+toobigtoosmall.pdf](chicago/Chicago-areas-with-MFI-pop+toobigtoosmall.pdf)
-* [chi-bottom-june2014.pdf](chicago/chi-bottom-june2014.pdf)
-* [chi-middle-june2014.pdf](chicago/chi-middle-june2014.pdf)
-* [chi-top-june2014.pdf](chicago/chi-top-june2014.pdf)
+* [Neighborhood Areas in Chicago](chicago/CUP-AHT-Chicago-Areas.pdf)
+* [Chicaog Neighborhood Areas with MFI and populations](chicago/Chicago-areas-with-MFI-pop+toobigtoosmall.pdf)
 
 ## Sub-borough map of NYC
 A sub-borough area/PUMA map of NYC. I laid out the map layers in QGIS, and worked with designer [Manuel Miranda](http://www.manuelmiranda.info/) to create a polished final version.
@@ -27,25 +24,31 @@ Maps I created of Biloxi for an internship and for my graduate thesis.
 * [GIS Analysis of suitable development locations on the Gulf Coast](biloxi/presentation_07292009_complete2.pdf)
 
 ## Maps for a landscape architecture studio
-A little designy-ier, a little fancier, maybe a little less clear. All are visions for a development site in Philadelphia.
+A little designy-ier, a little more unconventional, a little more polished. All are visions for a development site in Philadelphia.
+
+### Site overview
+* [Site Context map within local area](LAstudio/site-context-map.pdf)
+* [Site presentation](LAstudio/mtorrey-final-11x17.pdf)
+
+### Site context maps
+* [Site context within Philadelphia](LAstudio/context1.pdf)
+* [Multi-family homes withing 2 miles of site](LAstudio/multi-family-2miles.pdf)
+* [Transportation within 2 miles of site](LAstudio/transport-2miles.pdf)
+* [Philadelphia residual waste](LAstudio/phil-residual-waste.pdf)
+* [Philadelphia Schuylkill Watershed](LAstudio/phil-schuylkill_watershed.pdf)
+* [Philadelphia building sizes](LAstudio/phil_buildingsize-1.pdf)
+* [Philadelphia parks](LAstudio/phil_parks_bike.pdf)
+* [Philadelphia zoning](LAstudio/phil_zoning.pdf)
+
+### Site concepts for development (renderings
+* [site-base-map.png](LAstudio/site-base-map.png)
 * [concept-3-plan.pdf](LAstudio/concept-3-plan.pdf)
 * [concept-4-plan-axon-explo.pdf](LAstudio/concept-4-plan-axon-explo.pdf)
 * [concept-4-plan.pdf](LAstudio/concept-4-plan.pdf)
 * [concept-5-persp.pdf](LAstudio/concept-5-persp.pdf)
 * [concept-5-topo.pdf](LAstudio/concept-5-topo.pdf)
-* [context1.pdf](LAstudio/context1.pdf)
 * [first-model-V-ag-proposal.png](LAstudio/first-model-V-ag-proposal.png)
 * [first-model-low-rowhouses-proposal.png](LAstudio/first-model-low-rowhouses-proposal.png)
 * [infrastructure-to-grow.pdf](LAstudio/infrastructure-to-grow.pdf)
-* [mtorrey-final-11x17.pdf](LAstudio/mtorrey-final-11x17.pdf)
-* [multi-family-2miles.pdf](LAstudio/multi-family-2miles.pdf)
-* [phil-residual-waste.pdf](LAstudio/phil-residual-waste.pdf)
-* [phil-schuylkill_watershed.pdf](LAstudio/phil-schuylkill_watershed.pdf)
-* [phil_buildingsize-1.pdf](LAstudio/phil_buildingsize-1.pdf)
-* [phil_parks_bike.pdf](LAstudio/phil_parks_bike.pdf)
-* [phil_zoning.pdf](LAstudio/phil_zoning.pdf)
-* [site-base-map.png](LAstudio/site-base-map.png)
-* [site-context-map.pdf](LAstudio/site-context-map.pdf)
-* [transport-2miles.pdf](LAstudio/transport-2miles.pdf)
 
 
