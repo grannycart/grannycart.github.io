@@ -26,8 +26,8 @@ Maps I created of Biloxi for an internship and for my graduate thesis.
 * [East Biloxi detail map](biloxi/EB_detail.pdf)
 * [GIS Analysis of suitable development locations on the Gulf Coast](biloxi/presentation_07292009_complete2.pdf)
 
-## Maps I did for a landscape architecture studio
-A little designy-ier, a little fancier, maybe a little less clear.
+## Maps for a landscape architecture studio
+A little designy-ier, a little fancier, maybe a little less clear. All are visions for a development site in Philadelphia.
 * [concept-3-plan.pdf](LAstudio/concept-3-plan.pdf)
 * [concept-4-plan-axon-explo.pdf](LAstudio/concept-4-plan-axon-explo.pdf)
 * [concept-4-plan.pdf](LAstudio/concept-4-plan.pdf)
