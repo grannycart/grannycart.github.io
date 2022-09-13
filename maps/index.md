@@ -17,6 +17,10 @@ An analysis of MFI by community area in Chicago. These were maps for research pu
 A sub-borough area/PUMA map of NYC. I laid out the map layers in QGIS, and worked with designer [Manuel Miranda](http://www.manuelmiranda.info/) to create a polished final version.
 * [NYC Sub-Borough Area Map](./20191209_basemap.pdf)
 
+[//]: # (Add link to env dev NYC map to Sub-borough map section above -- with warning that it is Flash)
+
+[//]: # (Add Median estimator in R; chicago and NYC examples)
+
 [//]: # (add Freshkills GIS scaled points: pCloudDrive/attic/random-stuff-filing-cabinet/graphics-and-other-stuff-I-made-drawer/GIS-for-FKP/shapefiles)
 
 ## Gulf Coast Mississippi GIS Analysis
