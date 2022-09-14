@@ -11,7 +11,7 @@ Created for a unique rezoning initiated in the Two-Bridges neighborhood. This re
 ## Research maps of Chicago
 An analysis of MFI by community area in Chicago. These were maps for research purposes, not publication. 
 * [Neighborhood Areas in Chicago](chicago/CUP-AHT-Chicago-Areas.pdf)
-* [Chicaog Neighborhood Areas with MFI and populations](chicago/Chicago-areas-with-MFI-pop+toobigtoosmall.pdf)
+* [Chicago Neighborhood Areas with MFI and populations](chicago/Chicago-areas-with-MFI-pop+toobigtoosmall.pdf)
 
 ## Sub-borough map of NYC
 A sub-borough area/PUMA map of NYC. I laid out the map layers in QGIS, and worked with designer [Manuel Miranda](http://www.manuelmiranda.info/) to create a polished final version.
