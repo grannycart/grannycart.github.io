@@ -5,7 +5,7 @@ title: On maps
 
 
 ## NYC rezoning map
-Created for a unique rezoning initiated in the Two-Bridges neighborhood. This rezoning was initiated by local community organizations with limited resources. I volunteered to create and update maps required by the Department of City Planning.
+Created for a unique rezoning initiated in the Two-Bridges neighborhood. This rezoning was initiated by local community organizations with limited resources. I volunteered to create and update maps required by the Department of City Planning. Virtually every detail of this map was set to meet DCP's requirements specifications for rezoning maps. 
 * [LES Two-Bridges Area Map for rezoning context](./Area-map_LESCW_20200130.pdf)
 
 ## Research maps of Chicago
@@ -14,16 +14,18 @@ An analysis of MFI by community area in Chicago. These were maps for research pu
 * [Chicago Neighborhood Areas with MFI and populations](chicago/Chicago-areas-with-MFI-pop+toobigtoosmall.pdf)
 
 ## Sub-borough map of NYC
-A sub-borough area/PUMA map of NYC. I laid out the map layers in QGIS, and worked with designer [Manuel Miranda](http://www.manuelmiranda.info/) to create a polished final version.
+A sub-borough area/PUMA map of NYC included in CUP's Affordable Housing Toolkit. I laid out the map layers in QGIS, and worked with designer [Manuel Miranda](http://www.manuelmiranda.info/) to create a polished final version.
 * [NYC Sub-Borough Area Map](./20191209_basemap.pdf)
+I also worked with a developer to update the data in CUP's interactive map that shows incomes in NYC relative to housing subsidy targets in each sub-borough area.
+* [http://envisioningdevelopment.net/map/](http://envisioningdevelopment.net/map/) (Note: this is an old site created in Flash. You will need to enable Flash in your web browser to use it.)
 
-[//]: # (Add link to env dev NYC map to Sub-borough map section above -- with warning that it is Flash)
-
-[//]: # (add Freshkills GIS scaled points: pCloudDrive/attic/random-stuff-filing-cabinet/graphics-and-other-stuff-I-made-drawer/GIS-for-FKP/shapefiles)
+## NYC Garbage infrastructure scaled to the size of Fresh Kills Park
+At the request of an artist, I used GIS to calculate points if all of NYC's garbage infrastructure sites were scaled down to fit in the space of Fresh Kills Park in Staten Island.
+* [NYC Scaled Garbage Points](https://github.com/grannycart/NYC-scaled-garbage-points-map) (Github repository)
 
 ## R script to calculate median incomes
 I put together a simple R script to calculate median incomes from abitrary Census geographies.
-* [Estimate Medians](http://github.com/grannycart/estimate-medians) (Github repository only)
+* [Estimate Medians](http://github.com/grannycart/estimate-medians) (Github repository)
 
 ## Gulf Coast Mississippi GIS Analysis
 Maps I created of Biloxi for an internship and for my graduate thesis.
