@@ -13,11 +13,11 @@ An analysis of MFI by community area in Chicago. These were maps for research pu
 * [Neighborhood Areas in Chicago](chicago/CUP-AHT-Chicago-Areas.pdf)
 * [Chicago Neighborhood Areas with MFI and populations](chicago/Chicago-areas-with-MFI-pop+toobigtoosmall.pdf)
 
-## Sub-borough map of NYC
-A sub-borough area/PUMA map of NYC included in CUP's Affordable Housing Toolkit. I laid out the map layers in QGIS, and worked with designer [Manuel Miranda](http://www.manuelmiranda.info/) to create a polished final version.
-* [NYC Sub-Borough Area Map](./20191209_basemap.pdf)
-I also worked with a developer to update the data in CUP's interactive map that shows incomes in NYC relative to housing subsidy targets in each sub-borough area.
-* [http://envisioningdevelopment.net/map/](http://envisioningdevelopment.net/map/) (Note: this is an old site created in Flash. You will need to enable Flash in your web browser to use it.)
+## Sub-borough maps of NYC
+* A sub-borough area/PUMA map of NYC included in CUP's Affordable Housing Toolkit. I laid out the map layers in QGIS, and worked with designer [Manuel Miranda](http://www.manuelmiranda.info/) to create a polished final version.
+	* [NYC Sub-Borough Area Map](./20191209_basemap.pdf)
+* I also worked with a developer to update the data in CUP's interactive map that shows incomes in NYC relative to housing subsidy targets in each sub-borough area.
+	* [http://envisioningdevelopment.net/map/](http://envisioningdevelopment.net/map/) (Note: this is an old site created in Flash. You will need to enable Flash in your web browser to use it.)
 
 ## NYC Garbage infrastructure scaled to the size of Fresh Kills Park
 At the request of an artist, I used GIS to calculate points if all of NYC's garbage infrastructure sites were scaled down to fit in the space of Fresh Kills Park in Staten Island.
