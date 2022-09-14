@@ -19,9 +19,11 @@ A sub-borough area/PUMA map of NYC. I laid out the map layers in QGIS, and worke
 
 [//]: # (Add link to env dev NYC map to Sub-borough map section above -- with warning that it is Flash)
 
-[//]: # (Add Median estimator in R; chicago and NYC examples)
-
 [//]: # (add Freshkills GIS scaled points: pCloudDrive/attic/random-stuff-filing-cabinet/graphics-and-other-stuff-I-made-drawer/GIS-for-FKP/shapefiles)
+
+## R script to calculate median incomes
+I put together a simple R script to calculate median incomes from abitrary Census geographies.
+* [Estimate Medians](http://github.com/grannycart/estimate-medians) (Github repository only)
 
 ## Gulf Coast Mississippi GIS Analysis
 Maps I created of Biloxi for an internship and for my graduate thesis.
