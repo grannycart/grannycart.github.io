@@ -1,5 +1,5 @@
 README.md
-Last modified: Thu Sep 15, 2022  01:39PM
+Last modified: Thu Sep 15, 2022  01:47PM
 
 # README for grannycart web page
 * By github.com/grannycart
@@ -16,6 +16,7 @@ Last modified: Thu Sep 15, 2022  01:39PM
 4. Check that your index.md YAML is set to use layout "home"
 5. Edit _layouts/home.html and add {% include analytics.html %} above the </header> (This says to suck in that analytics.html file when rendering the page)
 6. Edit _config.yml and add google_analytics: UA-[custom tag from google]
+	* (I think this is the only step necessary for themes that have google analytics support built in.)
 * Note: UA- based google analytics will stop working in 2023. At that point you have to figure out how to make G- based properties work.
 
 ## License:
