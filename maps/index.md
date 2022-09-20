@@ -15,7 +15,7 @@ title: On maps
 
 ## Sub-borough maps of NYC
 * A sub-borough area/PUMA map of NYC included in CUP's Affordable Housing Toolkit. I laid out the map layers in QGIS, and worked with designer [Manuel Miranda](http://www.manuelmiranda.info/) to create a polished final version.
-	* [NYC Sub-Borough Area Map](./20191209_basemap.pdf)
+	* [NYC Sub-Borough Area Map](./20191209_basemap.png)
 * I also worked with a developer to update the data in CUP's interactive map that shows incomes in NYC relative to housing subsidy targets in each sub-borough area.
 	* [http://envisioningdevelopment.net/map/](http://envisioningdevelopment.net/map/) (Note: this is an old site created in Flash. You will need to enable Flash in your web browser to use it.)
 
