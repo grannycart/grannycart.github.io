@@ -19,6 +19,10 @@ title: On maps
 * I also worked with a developer to update the data in CUP's interactive map that shows incomes in NYC relative to housing subsidy targets in each sub-borough area.
 	* [http://envisioningdevelopment.net/map/](http://envisioningdevelopment.net/map/) (Note: this is an old site created in Flash. You will need to enable Flash in your web browser to use it.)
 
+## What Is FAR?
+* I led a team of designers and developers to create a interactive tool that uses hand-drawn graphics to walk you through the basics of how Floor Area Ratio (FAR) works. FAR is a key concept underlying much of NYC's zoning.
+	* [What Is FAR?](http://whatisfar.org) 
+
 ## NYC Garbage infrastructure scaled to the size of Fresh Kills Park
 * At the request of an artist, I used GIS to calculate points if all of NYC's garbage infrastructure sites were scaled down to fit in the space of Fresh Kills Park in Staten Island.
 	* [NYC Scaled Garbage Points](https://github.com/grannycart/NYC-scaled-garbage-points-map) (Github repository)
