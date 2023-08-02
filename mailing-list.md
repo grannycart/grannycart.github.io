@@ -4,13 +4,11 @@ layout: default
 
 # The single most important thing you can do to support creative work you enjoy. (No, it's not give them money.)
 
-OK, actually, before I tell you the most _important_ thing you can do, if you were only going to do _one_ thing to support someone's creative work, maybe think about throwing some money their way. I recommend buying a t-shirt, especially for bands. Seeing a band live is good, but a huge portion of your ticket money goes to the venue and those venues are often on a spectrum of corruption from corporate monsters to low-level mobsters. When you buy a t-shirt, the band makes a huge profit and pockets nearly all the money. And when you wear it, you not only show you are a part of some obscure-music-loving-knowledge tribe, but you're also doing some free advertising for the band. It's win-win-win, and schilling for a band you like carries no shame these days considering how hard it is to make money in music.
+OK, actually, before I tell you the most _important_ thing you can do, if you were only going to do _one_ thing to support someone's creative work, maybe you should indeed think about throwing some money their way. I recommend buying a t-shirt, especially for bands. Seeing a band live is good, but a huge portion of your ticket money goes to the venue and those venues are often on a spectrum of corruption from corporate monsters to low-level mobsters. When you buy a t-shirt, the band makes a huge profit and pockets nearly all the money. And when you wear it, you not only show you are a part of some obscure-music-loving-knowledge tribe, but you're also doing some free advertising for the band. It's win-win-win, and schilling for a band you like carries no shame these days considering how hard it is to make money in music.
 
-Buying t-shirts is good for creative work. But there is one thing you can do that's actually more important and requires no money from you and nearly no effort:
+Buying t-shirts is good for creative work. But there is one thing you can do that's actually more important and requires no money from you and nearly no effort: _Get on the mailing list_.
 
-Get on the mailing list.
-
-For all its ubiquitous dullness, and despite the domination of gmail, unlike virtually all other social networks, email is not controlled by any individual corporate overlord. It's the original social network, and as more decades pass where we have watched various platforms wax and wane and often dwindle out of sight, email perennially persists, and remains strong. And now creative creators are finally realizing the power having an email list gives them: it is a quantifiable representation of their fanbase that _they_ control.
+For all its ubiquitous dullness, and despite the domination of gmail, unlike virtually all other social networks email is not controlled by any individual corporate overlord. It's the original social network, and as more decades pass where we have watched various platforms wax and wane and often dwindle out of sight, email perennially persists, and remains strong. And now creative creators are finally realizing the power having an email list gives them: it is a quantifiable representation of their fanbase that _they_ control.
 
 With an email list a writer, band, artist, or puppet-maker can communicate with their fans directly, and more importantly will _always_ be able to communicate with them no matter what corporate platform they are forced to use to publish their work, and regardless of whether than platform gains or loses users.
 
@@ -27,5 +25,52 @@ For one thing, because the law requires it, the unsubscribe button mostly works 
 Mailing lists are critically important to both big name acts and struggling small-time creators. But _especially_ to the struggling small-time creators. And the effort required on your part is so nearly nothing that I am deeply offended that you haven't signed up for my own email list yet. 
 
 Come on! Be a fan!  
+
+
+<form method="post" action="https://forms.un-static.com/forms/bcd4d9974878bd5299fc08fbf3ddc46271feff0a">
+  <div class="form-group row">
+    <label for="name" class="col-4 col-form-label">Name</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-user"></i>
+        </div>
+        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="email" class="col-4 col-form-label">E-mail address</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-envelope"></i>
+        </div>
+          <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
+      </div>
+    </div>
+  </div>
+  <div class="form-check">
+    <input class="form-check-input" name="addtomailing" type="checkbox" value="yes" id="yesmailinglist">
+    <label class="form-check-label" for="yesmailinglist">
+      Check this box to be added to the mailing list
+    </label>
+  </div>
+  <div class="form-group row">
+    <label for="message" class="col-4 col-form-label">Message</label>
+    <div class="col-8">
+      <textarea id="message" name="message" cols="40" rows="10" class="form-control"></textarea>
+    </div>
+  </div>
+  <div class="form-group row">
+    <div class="offset-4 col-8">
+      <button name="submit" type="submit" class="btn btn-primary">Send</button>
+    </div>
+  </div>
+</form>
+<div align="center">
+  <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+</div>
+
 
 
