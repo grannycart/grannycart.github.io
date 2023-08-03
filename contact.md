@@ -12,4 +12,6 @@ new stuff when it becomes available. I wrote a whole thing about
 [why you should support creative work by signing up for email lists](https://grannycart.net/junk-drawer/mailing-list). 
 But I'll spare you from that here.
 
+[//]: # (Note: form will be added here from layouts/contact.html layout. Had to do it this way to get form formatted correctly with stylesheet.)
+
 
