@@ -4,7 +4,8 @@ title: Junk Drawer --- What's left at the bottom of the cart
 ---
 
 
-
+### This is not an apple
+![this is not an apple](./halloween2015.png "this is not an apple")
 
 ### [Music For Emma](MusicForEmma.html) 
 A comprehensive history of the purposes behind 20th-Century pop music in the form of a mixtape.
