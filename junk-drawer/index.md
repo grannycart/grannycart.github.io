@@ -5,7 +5,7 @@ title: Junk Drawer --- What's left at the bottom of the cart
 
 
 ### Kill -9
-My "art" "rock" "band" from the 90s, [Kill -9]()
+My "art" "rock" "band" from the 90s, Kill -9
 * [Live at the Gun Club Opening](https://www.youtube.com/watch?v=YiRwVuZvO3Q&list=PLq-2vnNfOEye4GFx1eaAlRQCPS4FRvpru)
 * [Of Hot Dogs and Hatred](https://www.youtube.com/watch?v=FMAOcTTMYrQ&list=PLq-2vnNfOEycnKAoJiAvqcTDmHcpgGpUa)
 
