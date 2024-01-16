@@ -1,5 +1,5 @@
 items-to-add-to-grannycart.md
-Last modified: 2024-01-15 19:54
+Last modified: 2024-01-16 11:54
 
 # Items to add to grannycart
 (this list should be merged with list in shuttlebay)
@@ -43,7 +43,7 @@ Last modified: 2024-01-15 19:54
 * [X] Bibliography
 * [ ] MANONSK
 * [X] Grand Jury Notes
-* [ ] Design is evil (see notes in pcloud/writing/writing-todos
+* [ ] Design is evil (see notes in pcloud/writing/writing-todos) (Actually, this might be best as a reddit community?)
 * [ ] Personhunt rules
 	* Maybe write an introduction that includes an admission that the rules are byzantine
 	* But also that the game has good balance and is super fun with a wide range of kid's ages
