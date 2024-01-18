@@ -7,9 +7,8 @@ title: On maps
 * [github.com/torreyma](https://github.com/torreyma)
 
 ### Paris vs Staten Island
-<img src="./paris-vs-SI.png" width=600>
+![](./paris-vs-SI.png")
 * See [git repo](https://github.com/grannycart/paris-vs-SI) for files
-
 
 ### NYC rezoning map
 * Created for a unique rezoning initiated in the Two-Bridges neighborhood. This rezoning was initiated by local community organizations with limited resources. I volunteered to create and update maps required by the Department of City Planning. Virtually every detail of this map was set to meet DCP's requirements specifications for rezoning maps. 
