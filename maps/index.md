@@ -4,7 +4,7 @@ title: On maps
 ---
 
 ### Paris vs Staten Island
-![Paris vs SI](./paris-vs-SI.png "Paris vs SI")
+![Paris vs SI](./paris-vs-SI.png "Paris vs SI" | width=600)
 * See [git repo](https://github.com/grannycart/paris-vs-SI) for files
 
 
