@@ -3,6 +3,10 @@ layout: page
 title: On maps
 ---
 
+### Paris vs Staten Island
+![Paris vs SI](./paris-vs-SI.png "Paris vs SI")
+* See [git repo](https://github.com/grannycart/paris-vs-SI) for files
+
 
 ### NYC rezoning map
 * Created for a unique rezoning initiated in the Two-Bridges neighborhood. This rezoning was initiated by local community organizations with limited resources. I volunteered to create and update maps required by the Department of City Planning. Virtually every detail of this map was set to meet DCP's requirements specifications for rezoning maps. 
