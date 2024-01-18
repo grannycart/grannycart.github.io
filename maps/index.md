@@ -7,7 +7,7 @@ title: On maps
 * [github.com/torreyma](https://github.com/torreyma)
 
 ### Paris vs Staten Island
-![](./paris-vs-SI.png")
+![](./paris-vs-SI.png)
 * See [git repo](https://github.com/grannycart/paris-vs-SI) for files
 
 ### NYC rezoning map
