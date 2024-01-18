@@ -3,6 +3,9 @@ layout: page
 title: On maps
 ---
 
+### Various current professional work (maps in R and Python)
+* [github.com/torreyma](https://github.com/torreyma)
+
 ### Paris vs Staten Island
 <img src="./paris-vs-SI.png" width=600>
 * See [git repo](https://github.com/grannycart/paris-vs-SI) for files
