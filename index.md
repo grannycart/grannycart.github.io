@@ -9,7 +9,7 @@ cities, and general doubter of cultural and systemic hegemony.
 
 * [On cities](cities/index.md): Work I've done on the subject closest to my heart.
 * [On bicycles](bicycles/index.md): Die Mensch-Maschine.
-* [On submarines](https://grannycart.net/by-sound-alone/): I wrote a (as yet untitled) novel with some submarines in it. Also a pigeon.
+* [On submarines](https://grannycart.net/by-sound-alone/): I wrote a novel with some submarines in it. Also a pigeon.
 * [On maps](maps/): My GIS work
 * [The junk drawer](junk-drawer/index.md): Other garbage I have made.
 
