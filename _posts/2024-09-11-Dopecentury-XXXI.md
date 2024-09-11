@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dopecentury XXXI --- 
+title: Dopecentury XXXI --- Cracks
 category: dopecentury
 goat_counter: "dopecentury" 
 ---
