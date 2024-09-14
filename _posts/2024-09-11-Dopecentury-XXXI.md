@@ -5,8 +5,9 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
-_This short fiction is part of [Dopecentury](https://grannycart.net/dopecentury), an experimental project where I try to channel the aural aesthetics of [Dopesmoker](https://en.wikipedia.org/wiki/Jerusalem_and_Dopesmoker) --- the legendary stone-doom metal master piece where the  "monotony rarely becomes tedious" --- into a written aesthetic. The experiment parameters are to simply listen to the hour-long single track of Dopesmoker while writing each of these "Dopecentury" entries._
+***This short fiction is part of [Dopecentury](https://grannycart.net/dopecentury), an experimental project where I try to channel the aural aesthetics of [Dopesmoker](https://en.wikipedia.org/wiki/Jerusalem_and_Dopesmoker) --- the legendary stone-doom metal master piece where the  "monotony rarely becomes tedious" --- into a written aesthetic. The experiment parameters are to simply listen to the hour-long single track of Dopesmoker while writing each of these "Dopecentury" entries.***
 
+--------------------------------------------------------------------------------
 
 The city is densely woven together: streets, buildings, blocks, neighborhoods; unbroken across nearly three hundred square miles; from the air it looks like a boundless mat of gray, slowly growing, slowly engulfing the green areas that ringed its borders; darker gray in the densest center, lightening to a pale color that ringed its edges; but unvarying in its determined grayness, unbroken by spots of green or blue or any other shade of color.
 

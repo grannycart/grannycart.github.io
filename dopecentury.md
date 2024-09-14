@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Dope Century
+title: Dopecentury
 which_category: dopecentury
 ---
 
