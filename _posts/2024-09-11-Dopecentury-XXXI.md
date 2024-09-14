@@ -5,7 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
-***This short fiction is part of [Dopecentury](https://grannycart.net/dopecentury), an experimental project where I try to channel the aural aesthetics of [Dopesmoker](https://en.wikipedia.org/wiki/Jerusalem_and_Dopesmoker) --- the legendary stone-doom metal master piece where the  "monotony rarely becomes tedious" --- into a written aesthetic. The experiment parameters are to simply listen to the hour-long single track of Dopesmoker while writing each of these "Dopecentury" entries.***
+***This short fiction is part of [Dopecentury](https://grannycart.net/dopecentury), an experimental project where I try to channel the aural aesthetics of [Dopesmoker](https://en.wikipedia.org/wiki/Jerusalem_and_Dopesmoker) --- the legendary stoner-doom metal masterpiece where the  "monotony rarely becomes tedious" --- into a written aesthetic. The experimental parameters are simply to listen to the hour-long single track of Dopesmoker while writing each of these "Dopecentury" entries.***
 
 --------------------------------------------------------------------------------
 
