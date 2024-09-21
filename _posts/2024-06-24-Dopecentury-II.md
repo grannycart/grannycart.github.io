@@ -5,7 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
-{% include_relative dopecentury/Dopecentury-intro.md %}
+{% include_relative Dopecentury-intro.md %}
 
 The great city descends as it moves northward, sloping gradually as it approaches the bay. The neglected waterfront winds back and forth among a series of coves and inlets, and these windings create isolated pockets of neighborhood. Few live in these enclaves though, so neighborhood may not be the correct word. Instead they are places of machine shops, industrial workings and repairs. Economies of collusion, but the work comes in to these places, is carried out, and then moves on.
 
