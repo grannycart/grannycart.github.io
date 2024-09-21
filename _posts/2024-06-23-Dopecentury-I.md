@@ -5,7 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
-{%-include Dopecentury-intro.md-%}
+{% include_relative ../dopecentury/Dopecentury-intro.md %}
 
 
 Wheels as tall as houses, a long line of them, stretching back, over the horizon. They turn, or churn, with an elegant steady pace. A human pace. A walking pace. 
