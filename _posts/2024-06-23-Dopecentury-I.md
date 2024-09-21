@@ -5,9 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
-***This short fiction is part of Dopecentury, an experimental project where I try to channel the aural aesthetics of Dopesmoker into a written aesthetic. (Dopesmoker is the legendary stoner-doom metal masterpiece of which it is said: "the monotony rarely becomes tedious.") The experimental parameters are simply to listen to the hour-long single track of Dopesmoker while writing each of these "Dopecentury" entries. See the [Dopecentury project page](https://grannycart.net/dopecentury) for more details.***
-
---------------------------------------------------------------------------------
+{%-include Dopecentury-intro.md-%}
 
 
 Wheels as tall as houses, a long line of them, stretching back, over the horizon. They turn, or churn, with an elegant steady pace. A human pace. A walking pace. 
