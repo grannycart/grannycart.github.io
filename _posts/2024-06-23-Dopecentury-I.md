@@ -7,7 +7,6 @@ goat_counter: "dopecentury"
 
 {% include_relative dopecentury/Dopecentury-intro.md %}
 
-
 Wheels as tall as houses, a long line of them, stretching back, over the horizon. They turn, or churn, with an elegant steady pace. A human pace. A walking pace. 
 
 One might note a particular spot, say toward the bottom of a wheel, and track that spot on its course. It would climb with unrelenting patience. First backward against gravity, then up the long hill to the apex, and then --- as if fighting the steepness of the descending curve, down down down without variation, neither gaining nor losing on any of its potentially imagined neighbors, until it crosses the forward most point of the wheel and flies downward along its final graceful arc to land at the ground again.

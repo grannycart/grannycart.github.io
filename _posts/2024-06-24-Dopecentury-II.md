@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative dopecentury/Dopecentury-intro.md %}
+
 The great city descends as it moves northward, sloping gradually as it approaches the bay. The neglected waterfront winds back and forth among a series of coves and inlets, and these windings create isolated pockets of neighborhood. Few live in these enclaves though, so neighborhood may not be the correct word. Instead they are places of machine shops, industrial workings and repairs. Economies of collusion, but the work comes in to these places, is carried out, and then moves on.
 
 The streets are used for storage. Huge wheeled machines line them, left there for a night, for many nights, for weeks on end. In many places parked bumper-to-bumper to maximize the storage capacity of the street. In many places, the machines look like they have been abandoned. Rust stains their sides. Black pools of oil form in the depressions of the roadway beneath them. Glass is cracked. Tired are flattened. Markings are sprayed on their sides.
