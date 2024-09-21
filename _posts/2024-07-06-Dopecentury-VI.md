@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 To the untrained eye, the screen appears to be filled with random splashes of color. Sprites that bubble up, grow, explode, and then melt away. Some colors crash into other and meld into a third color. Other colors consume rivals and grow larger, occasionally expanding to the point that they take over nearly the whole screen before weakening and dying away and yielding to another field of newly-expanding sprites.
 
 It took years of practice and training to learn to read what the sprites were indicating with their spectrum-bending color changes. It seemed abstract, but in fact was a way to convey a large amount of information quickly. To the operator that understood the significance of the varying hues and values --- and knew the esoteric key combinations that influenced them --- it was nothing less than observation of entire civilizations, entire worlds, rising and falling away in the space of a few hours session in front of the screen (or screens, as the case may be for the more committed operators).

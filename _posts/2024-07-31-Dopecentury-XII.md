@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 The landscape is mounded, rolling hills that extend off over the horizon. Though describing it as "landscape" isn't accurate, since the actual _land_ beneath is generally flat and swampy. "Landscape" in the abstract then, like the way one might describe the "landscape" of a crumbled sheet left on a bed. Though not as abstract as something like the "landscape" of public policy, for like the sheet this landscape does have physical dimensions. It spreads out on the x and y axis, and rises and falls on the z axis. It's not _not_ a landscape, I just mean that it's not what one thinks of when one thinks of "land." For nothing grows here, and growing things feel like a key element of a conventional understanding of landscape.
 
 Nothing grows here because it is filled with mounds of refuse, that is, garbage. It is a dump, a rubbish tip, landfill. And it is vast. Nothing grows here, but the dump itself, which flourishes and thrives. It grows ever upward and outward. The growth is not even, but guided by the operators, who sit up high in the cabs of their heavy compactors. They crawl slowly back and forth over the hills, crushing down the waste outflow of the big cities beneath their crenelated steel wheels, trying to make the embarrassment of civilization as small as possible.

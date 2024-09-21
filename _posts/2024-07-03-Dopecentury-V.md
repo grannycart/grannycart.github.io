@@ -5,7 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
-
+{% include_relative Dopecentury-intro.md %}
 
 The scum rises. It comes up on a tide pushed by the weight of the moon and piled on with the winds of the earth. It laps against our shoreline with long slow caressing strokes. It leaves bits of itself behind, staining our coastal cities, picked up in aerosol droplets and spread on gusty winds that whip through our canyon streets. The scum comes for us, and becomes us. We love it, consume it, and spread it around. It fills our thin and starved bellies. It pours back out of our pores, our earholes, and our tear ducts. Scum slides down our faces for the rest of the world to see. We make them lick it from our cheeks.
 

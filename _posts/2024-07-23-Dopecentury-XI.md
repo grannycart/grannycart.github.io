@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 One of those greasy-spoon diners that seem ubiquitous to every town in the country. This one located near the center cross-streets of a humped up little town raised up like a wart near the center of a vast expanse of flatland. Out front trucks (mostly trucks) parked head-in along the slanted spaces that lined the flat facades of the  one commercial area for miles in any direction. The diner clung to what little remaining gravity the center of the town had to offer, what with its half-dozen shops and the empty building where the small market had been until the grocery store opened at the edge of town.
 
 The diner got busy early, since many dropped by for their first coffee of the day before going to work in the fields, before the sun had even cracked the horizon. It stayed busy through mid-morning as others came in from the fields for their second or third coffee of the day after putting in an initial effort in the early hours to get ahead of the hotter part of the day. By that mid-morning "rush," the sun had climbed high enough in the sky to cut away the shadows of the commercial district, and the thermometer was rising steadily.

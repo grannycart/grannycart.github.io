@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 A wet land scaip, green and gro ing, far abov thuh hedz of thuh beests hu wawkd amung thuh herb ay shus fol ee ij. But thuh green groth end id at thee feeld ov rok and mud. Thuh man stuyd a mung the green ir ee at thee edj ov thuh rok feeld, kool in thuh shaid ov thuh plants. Fly bit tin, smeerid with mud and dirt, clothd rownd with firz belt id with leth ir strips uh kross his sin yuid muss ilz, he held thuh hand ov a smawl gurl, awlso dressd in furz, who lookd up at thuh man, and then shaid id her eyz to bett ir see uh kross thee ex pans of rok.
 
 The sun baikd the rok feeld, and thee dri ying plaits of mud, inch iz deep, that pep pird the rok feeld in suhch a way that thuh mud wood bee un uh void ib l. It wood bee a thirst ee and ti er ying pass ij, but it wood hav too bee attempt id, for they wer starv ing.

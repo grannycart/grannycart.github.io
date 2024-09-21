@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 It began with a small welt on my leg. Not even a "welt" really. A small discoloration. A tiny raised bump. Maybe a bug bite? Maybe an allergic reaction? I don't know. But it was accompanied by a mild itch, as such things often are. At first, I just scratched it easy, barely consciously. I just rubbed the tips of my fingers against it through the fabric of my pants, the fabric giving my scratching finger just a mild veneer of coarseness, which an itch likes. The itch was soon relieved and I moved on with my day.
 
 But most itches are like an appetite, given a little time, they return, as this particular itch did. It was not long before I was digging my nails into the itch, though still through the fabric of my pants. I had not yet reached the point of scratching the skin directly.

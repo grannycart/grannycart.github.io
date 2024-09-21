@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Dopecentury IXX --- The Plant
+title: Dopecentury XIX --- The Plant
 category: dopecentury
 goat_counter: "dopecentury" 
 ---
+
+{% include_relative Dopecentury-intro.md %}
 
 When the plant ran at full bore, it could be heard for dozens of miles in every direction. The sound splattered across the spectrum. Lows shook the ground, highs pierced the air. Foundation of nearby buildings cracked. Birds became disoriented. Lights flickered and dogs howled.
 

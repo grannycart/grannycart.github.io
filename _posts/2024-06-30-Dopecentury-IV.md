@@ -5,6 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
 
 Those in the know gathered in the atrium of the museum. Three stories high and walls of blank bright white. The white above contrasted with the dark stone of the floor below, and the dark tints worn by those in the know.
 

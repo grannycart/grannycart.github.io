@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 Fetid water		Black and oily, light does not penetrate it		The water is all slick black surface	Turbid below, saturated with dissolved particles of decaying plant matter		A swimmer could touch the bottom, but would not want to
 The bottom that could be touched is mud, many meters deep		A stone, a weight dropped in would sink right through the bottom, and continue sinking into the ever-thickening mud, maybe forever?		In places, bubbles rise up through the water, to pop with a slow cadence and small sound on the surface
 

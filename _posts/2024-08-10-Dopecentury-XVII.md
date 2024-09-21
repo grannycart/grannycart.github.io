@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 "Did I ever tell you about the time we were out riding our bikes, and ol' Sparky realized his frame was cracking underneath him?"
 
 "No Pop. When was that?"

@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 Looking back with hindsight later, it would have seemed like a foolish thing to do. But it is (presumably) impossible to look back with hindsight once you are dead.
 
 Why even do it? 

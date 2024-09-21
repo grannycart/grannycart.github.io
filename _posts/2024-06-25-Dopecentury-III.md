@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 "Fifteen fucking hours we drove to get to this armpit of the state. It was not fucking worth it."
 
 "This is the only show they are playing in the country this year. It's either here, or nowhere."

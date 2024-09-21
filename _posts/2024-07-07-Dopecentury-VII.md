@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 That the substance had _some_ affect on the human brain was known at least a hundred years ago. But the true significance was not widely understood until recently. (Many proponents claim that an identical, or at least very similar substance had been scraped from the root bark of a certain bush and used by natives for millennia, but this was, frankly, bullshit --- the substance was first synthesized in a defense lab, and was unrelated to the naturally derived substances, even if the effects were somewhat similar.) The core difficulty was that the primary effect of the substance was the enhance the experience of someone listening to music --- particularly if the music was very very loud. When first synthesized, this was not immediately apparent because the amplification of music was not yet widely practiced. It took many further decades for the confluence of loud music and abusers or obscure substances to meet in the particular field where an understanding of what was going on could be spread more widely.
 
 Once that happened though, knowledge of the effect spread rapidly, and along with that knowledge went more and more people trying and experiencing the substance. Since the effect on the brain was proportionally enhanced by every further decibel amplification, demand for louder and louder music also increased. (With some argument there: given that the decibel scale is logarithmic --- was the effect enhanced exponentially as amplification increased? Or linearly? No agreement has yet been reached by those who study such things.)

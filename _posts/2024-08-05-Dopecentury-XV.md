@@ -5,6 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
 
 "It got another goat last night."
 

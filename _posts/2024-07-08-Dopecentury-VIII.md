@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 The puzzle box fit well in the hand, at least if your hand were not grossly large or small as a child's. Maybe roughly the size and weight of a baseball. But it was a cube, or at least cubular, if that could be a word. It unquestionably had corners. Though after some manipulations, those corners would occasionally get stuck in awkward places. And while most of the edges were linear, curves did sometimes manifest themselves, often annoying the puzzler with their persistence since it was clear that the solution to the puzzle was in its cube form, or at least its cubular form.
 
 The puzzle box was black. Black inside, black outside. Black along the edges. Black where the mechanism that held it together within sometimes showed itself when the configuration was just right (or, more probably, just wrong). But it was all kinds of black. There were glossy black surfaces, that clearly needed to come together at some point to solve the puzzle. And the matte surfaces also obviously belonged together in the solution. Many puzzlers wondered about the edges, which often caught the light in a certain way with a bit of glare. Was the glare an indicator of edges that should be aligned? And then it was discovered that under particular colors of light, some surfaces glowed red, while others glowed blue. Suddenly a whole new dimension that needed to be managed to achieve the solution of the puzzle! Or maybe it was just a manufacturing flaw? Maybe the colors were irrelevant to the solution.

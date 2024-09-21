@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 ### Overview
 
 Despite all evidence to the contrary, rumors persist. The rumors are neither supported by research into the phenomenon, nor are they rooted in any demonstrably factual events or history. The rumors are also not derived from any kind of cultural beliefs beyond what might be connected to popular media. That is to say, to the best of our knowledge, the rumors of the phenomenon have no history from before broadly similar concepts were propagated by popular Hollywood films in the 1980s. (Other than tangential relationship to the more abstract concept of a "fountain of youth," which obviously stretches back centuries. We shall be examining that relationship in this report though, as we feel it is too, as we say, tangential.) 
