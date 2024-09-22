@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 The street-sweeper shift begins deep in the overnight hours, when the city is as quiet as it will ever be, and one can stand in middle of the street and look all the way down between the lines of buildings and see maybe a single vehicle moving: a delivery truck doing their rounds or maybe a night nurse doing their commute.
 
 On the truly perfect nights in the late summer, the street sweepers designate some parking lot near a 24-hour convenience store to meet at before the shift begins; there they park their machines in a circle facing outward, and shoot the shit while sipping at the coffee that has been sitting on the convenience store burner since the prior afternoon, or suck at newly-purchased cigarettes; Every cigarette smoked, every coffee cup drained, every candy bar wrapper and empty potato chip bag, gets tossed on the ground in front of the machines; The driver of a street sweeper has no use for municipal trash bins.

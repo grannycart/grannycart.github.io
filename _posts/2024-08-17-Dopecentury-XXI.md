@@ -5,6 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
 
 The sound of running water. Except I can tell by the smell that it's not water. Water is wholesome and life-sustaining. This stuff might run like water, but it is the opposite of wholesome, toxic, poisonous, infectious. Ingesting it would likely be fatal. Even touching it is dangerous. But that's unavoidable because it is everywhere in here, in the dark.
 

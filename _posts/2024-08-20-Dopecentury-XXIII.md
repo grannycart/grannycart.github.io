@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 He watched the ship receding ahead of him. Far more quickly than he hoped. "Surely someone saw me," he thought. It seemed likely, the ship had been crowded, it was daylight, there were always people about, always someone staring out over the water.
 
 But the stern was quickly growing smaller and smaller, and was giving no indication of slowing or turning. He wiped the stinging sea water from his eyes, and stared hard at the speck of a vessel quickly approaching the horizon and willed it to turn.

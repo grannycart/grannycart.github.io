@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 The superstructure pokes its head up above the endless small hills of this tundra; a tower fifty meters high, surrounded by hunched low outbuildings and great stacks of greasy black piping; a network of gravel paths connects the buildings; but everything centers on the tower, that is where the hole is being drilled.
 
 _Has been_ drilled, for the last two decades; it's a project that requires slow, sure actions, attention to detail, patience; A small bite of the geological time that put the things in the ground that are being drilled out of the hole, for sure, but still akin to that kind of slow, long-period time expanse regardless.

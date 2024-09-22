@@ -5,6 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
 
 "The problem is you're a curmudgeon. You've always been a curmudgeon."
 

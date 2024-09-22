@@ -5,6 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
 
 Brick on brick on brick on brick. Build something big from small pieces. Lay them down in a line. Mortar the gaps. Build something bigger. A row runs down. Runs round a circle. There's nothing held there.
 

@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 The heat was almost unbearable. We made our way up the center of the street. The tar laid down to patch cracks in the roadway melted, and stuck to our shoes. Well, my shoes, she was wearing flip-flops. "You should have put on better footwear."
 
 "There was no time. ...It might not matter for much longer anyway."

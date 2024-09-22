@@ -5,7 +5,7 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
-[//]: # (include_relative only works within the current directory or subdirectory.)
+{% include_relative Dopecentury-intro.md %}
 
 The east side of the city had been slums for as long as anyone could remember; the poor drawn to the east for a thousand years by the opportunity to homestead without interference from the authorities of the city; the land was rotten, low-lying swamp speckled with small barren hills, but for that reason it was cheaply or freely had, even though it was within walking distance of the city center (at least initially, before the slums in the east grew vast).
 

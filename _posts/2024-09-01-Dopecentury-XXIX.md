@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 It started down by the water. A close approach of the moon, a king tide. The water climbed up and over the seawall, streamed down the crest of the street, found a gutter that it gorged with trash mixed with grease and oil, until the gutter could take no more and the water backed and pooled. The pool gained depth and the surface rose until it inundated a nearby storage building that was stocked with all manner of chemicals. The water swept out the supports under some of the racks, the barrels on those racks above crashed and split on the concrete floor. The chemicals mixed with the seawater. The resulting admixture ignited.
 
 The fire burned cold, an unnatural bright banana yellow color that swept along the surface of the water, grabbed onto the walls of the building and slowly consumed them. The walls liquefied and melted into a viscous pool of thick crimson sludge. The building collapsed The icy yellow fire fed on the crimson liquid fuel it had cooked up for itself, and spread. Soon the block was burning. Then the whole of the waterfront neighborhood.

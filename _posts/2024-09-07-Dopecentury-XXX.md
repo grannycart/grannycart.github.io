@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 [//]: # (For Xala, and all other residents of the West, who might have darkness but never knew they were missing the lights.)
 
 The band leader turned to the audience and lifted his hands. "Y'all might think this is just a song title, or a metaphor, but it ain't! Tonight, we're going to search out and find darkness! I promise this to you."

@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 Follow along a country lane that winds back and up into the hills, far past where the streetlights end, where the trees turn gnarly and cling darkly to the ground between boulders. Turn left onto an overgrown track. Two tracks side-by-side, actually, with overgrown weeds rising up between them. The track rises and falls, crosses a small stream of pebbles, and climbs around and up a knoll.
 
 There the track ends at a hut that sits hunched among high grasses that grow up its side: two rooms, dark wood saturated with time, a roof of chipped slate. A chimney of brick crumbles down the slope of the roof. The porch droops, its shallow roof dipping at an unnatural angle. Part of the glass is missing from one of the window panes. Moss grows on the uprights and there are gaps like missing teeth in the deck of the porch where the planks have rotted away.

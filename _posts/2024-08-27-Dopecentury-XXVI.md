@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 I should walk away.
 
 At the horizon the sky is brightening. The last stars of the evening are fading into the smoke of dawn, rising from the city edge. The black stones of the street are slick with the morning damp. Light flowing through the open doors of the machine shops that begin work early brightens the street. The machines chug away, puttering and smoking.

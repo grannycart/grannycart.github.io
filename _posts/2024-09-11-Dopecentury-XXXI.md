@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 The city is densely woven together: streets, buildings, blocks, neighborhoods; unbroken across nearly three hundred square miles; from the air it looks like a boundless mat of gray, slowly growing, slowly engulfing the green areas that ringed its borders; darker gray in the densest center, lightening to a pale color that ringed its edges; but unvarying in its determined grayness, unbroken by spots of green or blue or any other shade of color.
 
 Crossing the city takes hours, feeling out a winding way through a nest of small streets that intersect at odd angles, that never ran for more than a few hundred yards in a straight line; hours of groping in near blindness, no map with a scale appropriate could be fit onto a single page; instead a whole book of maps was necessary --- "continued on D3" (only to find the page with D3 and D4 had been ripped out by some scoundrel years ago that was likely to be the past version of oneself); it was only the old people who still used the paper maps of course, the modern way was electronic; unfortunately the route-finders inevitably manifested and led people to traffic that clogs whole neighborhoods; the locals complain, and the companies behind the route-finding software make adjustments; the preferred routes change, and the snarls moves to a different neighborhood to wait out the day when those locals would complain.

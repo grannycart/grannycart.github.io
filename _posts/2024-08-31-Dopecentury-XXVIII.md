@@ -5,6 +5,8 @@ category: dopecentury
 goat_counter: "dopecentury" 
 ---
 
+{% include_relative Dopecentury-intro.md %}
+
 She took her seat at the little donut of consoles in the center of the factory floor, taking over from operator of the previous shift as she stood and stretched. From her seat she had an unobstructed view down the nearly mile-long length of the factory floor. On both sides, she could hear the whirring hum of the production machinery, set into lines that were referred to by letter: A-E. Each line stretched from one end of the factory floor to the other. Production generally moved to the north, except where there were necessary crossovers and reverses in the lines. Those were the most complicated to control.
 
 Controlling the lines was her job. Or at least she controlled this three-hundred foot section of machines on the A-E lines before they got handed off to another operator in the next donut further on down the factory floor. 
