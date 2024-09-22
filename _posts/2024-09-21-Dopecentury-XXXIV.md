@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dopecentury XXXIV --- 
+title: Dopecentury XXXIV --- A Horizontal Border
 category: dopecentury
 goat_counter: "dopecentury" 
 ---
