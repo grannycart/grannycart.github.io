@@ -5,30 +5,37 @@ which_category: dopecentury
 ---
 
 
-## What?
-For years I have been asking myself the question: if Motörhead or Dopesmoker were a novel, what would it be like?
+## What would it look like if the aesthetics of heavy metal were brought to fiction?
+For years I have been asking myself the question: if the band Motörhead were a novel, what would it be like?
 
-Not really so much a question of literally what it would be like if Lemmy had written a novel (though that would be interesting, and I'd want to read it), but more like a question of aesthetics: is it possible to capture the grittiness, the intensity, the volume of a seriously dirty heavy metal band in written form?
+Not really so much a question of what it would literally be like if Lemmy from Motörhead had written a novel (though that would be interesting, and I'd want to read it), but more like a question of aesthetics: is it possible to capture the grittiness, the intensity, the volume of a seriously grimy heavy metal band in written form? And obviously I'm not talking very specifically about Motörhead's aesthetic; really the aesthetic of any gritty heavy metal band would do.
 
-Even though grittiness is a regular quality seen in films and found in music, I cannot think of an example of narrative fiction that captures the same feeling. I've pondered this every which way and made many false starts trying to write something that gets close to this. It is a major underlying element of my first novel [By Sound Alone](https://bysoundalone.net/). But it's an _underlying_ element. I want it to be front-and-center. I want to be able to regularly churn out a written aesthetic of which grittiness and volume is the main distinguishing feature.
+Even though grittiness is a regular quality seen in films and found in music, I cannot think of an example of narrative fiction that captures the same feeling. (I sometimes feel that the aesthetics of fiction are kind of stuck in a way that other genres have broken free from, but that's a subject to address somewhere else.) I've pondered the written heavy-metal aesthetic every which way and made many false starts trying to write something that gets close. It is a major underlying element of my novel [By Sound Alone](https://bysoundalone.net/). But it's an _underlying_ element. I want it to be front-and-center. I want to be able to regularly churn out a written aesthetic in which grittiness and volume is the distinguishing feature.
 
-Maybe it simply isn't possible? I don't know, but I want to find out. So after years of failing to just stumble across it, I created a plan to develop this aesthetic: I'm going to listen to Sleep's Dopesmoker 100 times and write for the full hour-and-three minute length of the track each time. With Sleep clear and present in my ears, and concentrated effort, I'm hoping that in that hundred hours I can pick out the aesthetic I'm looking for.
+Maybe it simply isn't possible? 
 
-("100 times!" you might be saying. "That's crazy! Do you know that Dopesmoker is super slow and more than an hour long?" I fear not. During the pandemic, I listened to it every day for almost year a year --- I've already listened to it more than 300 times. It is, I contend, the [greatest piece of music ever written](https://www.nytimes.com/2016/01/24/magazine/letter-of-recommendation-sleep-dopesmoker.html). One hundred more times will be a pure inspirational pleasure.)
+I don't know, but I want to find out. So after years of failing to just stumble across grimy grittiness while writing, I created a more active plan to develop this aesthetic: I'm going to listen to Sleep's Dopesmoker 100 times and write for the full hour-and-three minute length of the track each time. With Sleep clear and present in my ears, and concentrated effort, I'm hoping that in that hundred hours I can pick out the aesthetic I'm looking for.
+
+## Why Dopesmoker?
+First, I contend that it is the [greatest piece of music ever written](https://www.nytimes.com/2016/01/24/magazine/letter-of-recommendation-sleep-dopesmoker.html). The aesthetics are also perfect --- maybe even better than Motörhead for what I'd like to achieve. (I'd like my writing to feel like struggling to slog through thigh-high muck!) It can recede to incidental background music when you want to pay attention to something else. And it can come right to the front any time you require inspiration just by briefly turning your attention to it. It is the right music for all situations. It is the right music for writing.
+
+"100 times!" you might be saying. "That's crazy! Don't you know that Dopesmoker is super slow and more than an hour long?" Fear not for my sanity. During the pandemic, I listened to it every day for almost a year --- I've already listened to it more than 300 times. One hundred more times will be a pure inspirational pleasure.
+
+## Why "Dopecentury"
+In cycling, a "century" is a 100 mile (or kilometer) ride. So the initial goal here is to listen to Dopesmoker 100 times.
 
 ## Guidelines
-Not _rules_, but guidelines for this project:
-* Dopesmoker: 1 hour, 3 minutes. Don't have to write the _whole_ time, but can't do anything else.
+Not _rules_ (rules are stupid), but guidelines for this project:
+* Listen to Dopesmoker (1 hour, 3 minutes). Don't have to write the _whole_ time, but can't do anything else.
 * Pausing is fine. It already has natural break points every 20 minutes, which are good places to to stretch.
-* 100 times, but it doesn't have to be 100 days in a row. Skipping a day here and there is fine. But let's not let more than a few days go by at most. Need to keep up momentum! Dopesmoker may be slow and grinding, but it moves forward relentlessly.
+* 100 times, but it doesn't have to be 100 days in a row. Skipping a day here and there is fine. But let's not let more than a few days go by at most. Need to keep up momentum! Dopesmoker may be slow and grinding, but it moves forward relentlessly. (And if it keeps going beyond 100 times, well, whatever.)
 * Keep meta-writing to a minimum. Put notes in comments in the .md files if you have them, but focus on creating narrative content.
-* Writing can be about anything, but it should be fiction focused on aesthetic.
+* Writing can be about anything, but it should be fiction focused on crafting aesthetic.
 
 ## RSS 
-* [RSS feed](https://grannycart.net/dopecentury/feed.xml)
+* [RSS feed](https://grannycart.net/feed.xml)
 
-
-----------------------------------------  
+## Entries
 
 
 
