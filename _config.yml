@@ -40,6 +40,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# This tells jekyll-feed to generate a feed for the category of 'dopecentury' at feed/dopecentury.xml
 feed:
   categories:
     - dopecentury
