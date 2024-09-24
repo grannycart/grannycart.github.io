@@ -29,7 +29,7 @@ Not _rules_ (rules are stupid), but guidelines for this project:
 * Repeat (at least) 100 times. (In cycling, a "century" is a 100 mile (or kilometer) ride. So the initial goal here is to listen to Dopesmoker 100 times.)
 
 ## RSS 
-* [RSS feed](https://grannycart.net/feed/dopecentury.xml)
+* RSS feed: [https://grannycart.net/feed/dopecentury.xml](https://grannycart.net/feed/dopecentury.xml)
 
 ## Entries
 
