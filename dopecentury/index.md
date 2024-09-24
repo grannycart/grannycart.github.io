@@ -26,12 +26,10 @@ Not _rules_ (rules are stupid), but guidelines for this project:
 * Listen to Dopesmoker (1 hour, 3 minutes) while writing. Don't have to write the _whole_ time, but can't do anything else.
 * Writing can be about anything, but it should be fiction focused on crafting aesthetic.
 * Keep meta-writing to a minimum. Put notes in comments in the .md files if you have them, but focus on creating narrative content.
-* Repeat (at least) 100 times.i[^1]
-
-[^1]: In cycling, a "century" is a 100 mile (or kilometer) ride. So the initial goal here is to listen to Dopesmoker 100 times.
+* Repeat (at least) 100 times. (In cycling, a "century" is a 100 mile (or kilometer) ride. So the initial goal here is to listen to Dopesmoker 100 times.)
 
 ## RSS 
-* [RSS feed](https://grannycart.net/feed.xml)
+* [RSS feed](https://grannycart.net/feed/dopecentury.xml)
 
 ## Entries
 

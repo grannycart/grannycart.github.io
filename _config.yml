@@ -39,3 +39,7 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+feed:
+  categories:
+    - dopecentury
