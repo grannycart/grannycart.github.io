@@ -21,16 +21,14 @@ First, I contend that it is the [greatest piece of music ever written](https://w
 
 "100 times!" you might be saying. "That's crazy! Don't you know that Dopesmoker is super slow and more than an hour long?" Fear not for my sanity. During the pandemic, I listened to it every day for almost a year --- I've already listened to it more than 300 times. One hundred more times will be a pure inspirational pleasure.
 
-## Why "Dopecentury"
-In cycling, a "century" is a 100 mile (or kilometer) ride. So the initial goal here is to listen to Dopesmoker 100 times.
-
 ## Guidelines
 Not _rules_ (rules are stupid), but guidelines for this project:
-* Listen to Dopesmoker (1 hour, 3 minutes). Don't have to write the _whole_ time, but can't do anything else.
-* Pausing is fine. It already has natural break points every 20 minutes, which are good places to to stretch.
-* 100 times, but it doesn't have to be 100 days in a row. Skipping a day here and there is fine. But let's not let more than a few days go by at most. Need to keep up momentum! Dopesmoker may be slow and grinding, but it moves forward relentlessly. (And if it keeps going beyond 100 times, well, whatever.)
-* Keep meta-writing to a minimum. Put notes in comments in the .md files if you have them, but focus on creating narrative content.
+* Listen to Dopesmoker (1 hour, 3 minutes) while writing. Don't have to write the _whole_ time, but can't do anything else.
 * Writing can be about anything, but it should be fiction focused on crafting aesthetic.
+* Keep meta-writing to a minimum. Put notes in comments in the .md files if you have them, but focus on creating narrative content.
+* Repeat (at least) 100 times.i[^1]
+
+[^1]: In cycling, a "century" is a 100 mile (or kilometer) ride. So the initial goal here is to listen to Dopesmoker 100 times.
 
 ## RSS 
 * [RSS feed](https://grannycart.net/feed.xml)
