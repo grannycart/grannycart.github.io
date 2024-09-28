@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-09-21 12:09
+Last modified: 2024-09-28 13:20
 
 # Possible future entries:
 * (see daydreams)
@@ -14,7 +14,10 @@ Last modified: 2024-09-21 12:09
     * "Time! time! give me the time!"
     * maybe one long paragraph, which is how a bike race feels, and also since it would all be in his head
 * rules of the smug god
-* sonic titan: a huge sound that travels across the lanscape
+* ~~sonic titan: a huge sound that travels across the lanscape~~
+    * Sonic Titan II: One huge sound travels across the landscape to do battle with a second that comes to meet it. 
+        * They need to have distinctive sounds, distinctive weapons.
+        * People running around on the ground, kaiju style
 * a paleolithic father and daughter walk barefoot across a muddy landscape full of mammoths, sloths, and saber-toothed monster. They are starving and heard that a group nearby had secured a large pile of meat.
     * possibly good for the phonetics experiment
         * make a list of phonetic elements that can be used, derived from dopecentury X
