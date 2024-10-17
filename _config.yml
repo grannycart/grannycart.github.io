@@ -31,11 +31,13 @@ kramdown: # need to disable smart typography for rss feed to work properly
   typographic_symbols:        {mdash: "&mdash;", hellip: "&hellip;"}
 
 plugins:
-  - jekyll-feed
+  - jekyll-feed # google this for rss help
   - jekyll-seo-tag
 
 # This tells jekyll-feed to generate a feed for the category of 'dopecentury' at feed/dopecentury.xml
 feed:
   categories:
     - dopecentury
+feed:
+    posts_limit: 0 # set no limit on posts (otherwise default is 10)
 
