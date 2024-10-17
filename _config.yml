@@ -38,5 +38,5 @@ plugins:
 feed:
   categories:
     - dopecentury
-  posts_limit: # set no limit on posts (otherwise default is 10)
+  posts_limit: 1000 # set a high limit on posts (otherwise default is 10)
 
