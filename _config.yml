@@ -36,7 +36,7 @@ plugins:
 
 # This tells jekyll-feed to generate a feed for the category of 'dopecentury' at feed/dopecentury.xml
 feed:
+  posts_limit: 1000 # set a high limit on posts (otherwise default is 10)
   categories:
     - dopecentury
-  posts_limit: 1000 # set a high limit on posts (otherwise default is 10)
 
