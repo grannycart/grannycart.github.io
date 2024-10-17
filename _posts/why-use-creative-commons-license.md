@@ -5,8 +5,6 @@ category: publishing
 goat_counter: "bysoundalone" 
 ---
 
-[//]: # (This is so neggy you might want to hold off for like a year to see if it actually rings true, or if you just need to be more patient with a book that has no audience yet.)
-
 
 Here in the year 2024, given the state of Creative Commons, you probably should _not_ publish your fiction work under a Creative Commons license. I can't even tell you how much this statement makes my soul ache. In the grand scheme of things, the impotency of Creative Commons is probably just one small part of the [enshittification of everything](https://www.ft.com/content/6fb1602d-a08b-4a8c-bac0-047b7d64aba5). But as someone who spent their entire adult life both utilizing open-source software and deeply committed to the principles behind free-as-in-speech licenses, I am left with nothing but a sense of complete defeat by the worst impulses of capitalism when I accepted that Creative Commons time may be passing/have passed.
 

@@ -7,8 +7,6 @@ goat_counter: "dopecentury"
 
 {% include_relative Dopecentury-intro.md %}
 
-[//]: # (include_relative only works within the current directory or subdirectory.)
-
 Wheels as tall as houses, a long line of them, stretching back, over the horizon. They turn, or churn, with an elegant steady pace. A human pace. A walking pace. 
 
 One might note a particular spot, say toward the bottom of a wheel, and track that spot on its course. It would climb with unrelenting patience. First backward against gravity, then up the long hill to the apex, and then --- as if fighting the steepness of the descending curve, down down down without variation, neither gaining nor losing on any of its potentially imagined neighbors, until it crosses the forward most point of the wheel and flies downward along its final graceful arc to land at the ground again.
@@ -24,8 +22,6 @@ So much dust. The dust rises around the wheels. The machine floats on a cushion 
 And when it passes the dust settles down and cakes along the floor of the valley, and the little animals crawl back out from their holes and resume their meek lives until the next wind off the black mountains in the distance.
 
 The machine rolls, crawls along in its cloud of dust. The line it forms along the valley floor points to the distant black mountains. It points to a flame that rises from those mountains. Flaring from some industry. The flames light the underside of the low dark clouds that cling to the distant black mountains. It is possible that it is raining there.
-
-[//]: # (I like the repetition here. This feels like a direct influence of Dopesmoker.)
 
 The machine moves forward at an elegant steady pace. A humane pace. A walking pace. Indeed, next to it are walkers. Humans who are occupied with tending the machine. They are wrapped in loose cloth, which loops over their mouths to filter the dust. In their hands they carry sundry tools: oil cans, heavy wrenches, long thin tap hammers, and radios with whip antennas. A handful of people stride next to the machine every few hundred meters. On occasion, a radio squawks, and a person responds by grabbing the rungs of one of the steel ladders that hang down the side, and climbing up to walk along the top of the machine to whatever location needs attention. None of this is ever done in a rush. The machines moves slowly, steadily. And the people who tend it move slowly, steadily as well.
 
