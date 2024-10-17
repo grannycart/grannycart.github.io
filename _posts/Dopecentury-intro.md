@@ -5,5 +5,3 @@
 
 --------------------------------------------------------------------------------
 
-[//]: # (This intro gets included at the beginning of each "Dopecentury" post category. See one of those posts for syntax for inclusion.)
-
