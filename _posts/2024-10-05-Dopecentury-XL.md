@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dopecentury XXXX --- Sand Sub 2
+title: Dopecentury XL --- Sand Sub 2
 category: dopecentury
 goat_counter: "dopecentury" 
 ---
