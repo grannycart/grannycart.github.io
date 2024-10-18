@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-10-11 09:00
+Last modified: 2024-10-18 11:33
 
 # Possible future entries:
 * (see daydreams)
@@ -45,8 +45,8 @@ Last modified: 2024-10-11 09:00
 * A world where _everyone_ lives in their own microstate
 * Somehow do a version of the natural appeal of mechanical things (mice on wheels)
 * loud bars to prevent revolutions
-* black wind blows dust across the plains
 * A version of the story where a boy lifts a calf until it's a man lifting a bull (see Faulkner Intruder in the Dust)
+* A soliloquy where you debate with yourself the merits of plunging into icy cold water
 
 
 
