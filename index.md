@@ -13,6 +13,7 @@ cities, and general doubter of cultural and systemic hegemony.
 * [On bicycles](bicycles/index.md): Die Mensch-Maschine.
 * [On maps](maps/): My GIS work
 * [The junk drawer](junk-drawer/index.md): Other garbage I have made.
+    * [Blog entries](entries.md): half-baked thoughts
 
 
 
