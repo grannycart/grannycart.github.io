@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Pissing into the Wind
+title: Piss in the Wind
 ---
 
 ----------------------------------------  
