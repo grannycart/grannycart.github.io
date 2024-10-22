@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-10-18 11:33
+Last modified: 2024-10-22 09:23
 
 # Possible future entries:
 * (see daydreams)
@@ -46,7 +46,7 @@ Last modified: 2024-10-18 11:33
 * Somehow do a version of the natural appeal of mechanical things (mice on wheels)
 * loud bars to prevent revolutions
 * A version of the story where a boy lifts a calf until it's a man lifting a bull (see Faulkner Intruder in the Dust)
-* A soliloquy where you debate with yourself the merits of plunging into icy cold water
+* construct something entrely/mostly of nested parentheses.
 
 
 
