@@ -1,5 +1,5 @@
 possible-future-entries.md
-Last modified: 2024-11-02 15:40
+Last modified: 2024-11-04 17:36
 
 # Possible future entries:
 * (see daydreams)
@@ -48,7 +48,6 @@ Last modified: 2024-11-02 15:40
 * A version of the story where a boy lifts a calf until it's a man lifting a bull (see Faulkner Intruder in the Dust)
 * construct something entrely/mostly of nested parentheses.
 * A story that takes place around a pot-belly stove, and people are shifting to be closer to the heat or further away towards the drafty cold door
-* A story where a bridge is occupied by gangs from the left and right bank, crazy vehicles (ala bike kill) and champions sent in to do single combat while riding the crazy vehicles. The police on either end of the bridge look on.
 
 
 
