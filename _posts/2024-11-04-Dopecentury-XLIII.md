@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dopecentury XLIII --- 
+title: Dopecentury XLIII --- The Bridge 
 category: dopecentury
 goat_counter: "dopecentury" 
 ---
