@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dopecentury XVI --- The Phenomena
+title: Dopecentury XVI --- The Phenomenon
 category: dopecentury
 goat_counter: "dopecentury" 
 ---
