@@ -32,8 +32,3 @@ It comes only in the middle of the night, when it is darkest in your room. It co
 This is the only real ghost there is. It's the realest of real ghosts. It is a visitation of real fear and terror and your own mortality is exposed to you in a cold light that cannot be denied. You have to live your life knowing it is coming for you. All you can do is hope that it does not come too often. Good luck with that kid."
 
 
-
-
-
-
-
