@@ -1,0 +1,27 @@
+---
+layout: post
+title: Dopecentury LIII --- Settling
+category: dopecentury
+goat_counter: "dopecentury" 
+---
+
+{% include_relative Dopecentury-intro.md %}
+
+There has never been a major quake in the city. At the same time, the ground has never been entirely settled or quiet. Somewhere deep, deep below the city, below the concrete, below the dusty contaminated earth, below the aquifer, and below the bedrock, somewhere down in the guts, tectonic forces grappled and shoved and ground. But unlike the massive energy releases that on occasion burst forth on the surface of the planet elsewhere, here the deep forces worked slowly, steadily, patiently. The grinding went on and on, over the courses of years. Sometimes it paused, but always it resumed. The grind had a beat, a subtle heaviness like huge boulders striking the earth somewhere off in the distance. The ground under the city shook continually but softly, like it was being hammered by a giant working some extremely intricate and delicate piece of armor (interrupted with a pause once in a while as the giant turned the piece).
+
+The shaking of the city was mild enough that most people went about their day without noticing it. Typically it was only when a denizen woke in the night, and lay in streetlamp-lit semi dark listening to the quiet night city that a person might notice the soundless beat, the regular but soft vibrations that worked their way up through the foundations of the building, the floor supports, the boards, the bedframe to shake the recent-sleeper ever-so-gently with a regularity of every second or so, as if the earth itself had a heartbeat.
+
+For most people, the fact that the earth below their feet was somewhat unsettled was no cause for concern. At least it kept to itself and never seemed interested in a big dramatic over-reaction. The tectonic forces below the city never made a scene, and the people in the city were happy to leave it at that and not question it, generally.
+
+Except that the constant gentle hammering did take its toll. Just much more slowly over time. The vibrations continually shook the ground and that shaking caused the ground to continually and slowly shift, and that shifting caused the buildings and structures above to continually and slowly settle. There was not a home in the city that did not have at least a few hairline cracks in the plaster that an observant child might notice had spread across the length of the room during the year they grew up in the city. More serious damage affected the exterior of the buildings. Century old buildings often had an entire run of brick falling out of a wall here or there, or a piece of facade dropping from the heights above to smash to dust on the sidewalk. The older buildings actually did better, being generally made of mortared brick or stone --- those buildings only lost pieces here and there. Stiff and unforgiving modern buildings might be fine for a decade or so, and then suddenly a whole row of glass from the curtain wall would pop from the frames and shower an entire block in deadly shards, like an angry pagan god throwing bolts down from the sky.
+
+Those who constructed ephemeral structures --- say castles of sand --- would often feels the effects of the deep grind most explicitly. Sitting in a box of sand, a small child peering closely at the crenelations might see grains flaking off at a regular rate. Come back tomorrow, and the whole thing would inevitably have toppled over. A disgruntled teenage would point out between puffs on a cigarette that the whole city would end up looking like that one day.
+
+The civil engineers often labored in the frustration of ineffectiveness. For example, perhaps the most critical bridge in the city had been built 200 years before --- more or less 200 years before the idea of tectonic movement had even been floated. It had been understood then that a house or building might settle, but it was never expected that such minor forces could impact the huge support towers of a major infrastructure project like a bridge. And one of those support towers, having found footing on bedrock, was holding up more or less fine (putting aside the usual slow cracking of the brickwork). The other tower though had been built on nothing more than sand on the river bottom. That tower was sinking with a slow steady patience into the river. It was only a matter of time before it sank so low that half the bridge would collapse. The engineers cast about for solutions: some kind of reinforcement for the sand below? Another support tower added to the bridge? Some kind of vast cantilevered element jutting out from dry land? Nothing so far had come in under a price estimate that the city government was willing to consider.
+
+The buildings settled, the infrastructure settled, the streets settled. The roadway split, sometimes long cracks that would go on for thousands of feet, and then would be patched with snaking thick lines of hand-applied tar. The bed of asphalt in some places slipped down from the curb leaving behind a cliff of hanging concrete for pedestrians to step off of.
+
+The whole city was shrugging its shoulders and sinking down to a more comfortable place. The thumping rhythm of the plates that moved far below was part of --- the lowest part of --- the continuous background music of the city. It formed a bass-line thread that wove all the action of the city together through time.
+
+ 
+
