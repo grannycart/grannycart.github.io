@@ -14,6 +14,9 @@ My all-MANOWAR radio show in the late 90s:
 * [_Metal Warriors_ Sing-along](https://www.youtube.com/watch?v=UpRQrolh9fU&list=PLq-2vnNfOEycvap2JEvQJD2khKYVApq7F&index=3) (excerpt from full show)
 * [Full two-hour recording](https://www.youtube.com/watch?v=V7HZFkrAspw&list=PLq-2vnNfOEycvap2JEvQJD2khKYVApq7F&index=2) from 4-6-1998 broadcast
 
+### Ozzy Lives!
+In which we were responsible for raising Ozzy Osbourne from the dead via seance.
+* [Ozzy Lives!](https://www.youtube.com/watch?v=ljnaf99aUU8)
 
 ### [Music For Emma](MusicForEmma.html) 
 A comprehensive history of the purposes behind 20th-Century pop music in the form of a mixtape.
